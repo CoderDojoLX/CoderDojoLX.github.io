@@ -249,6 +249,9 @@
       <strong aria-hidden="true">Publish date: </strong>May 16, 2020
       
         
+          <br>
+          <strong aria-hidden="true">Last updated: </strong>May 16, 2020
+        
       
     </div>
 
@@ -299,8 +302,8 @@
           
           
           
-          <a href="#what-if-we-wanted-to-add-more-balls">
-            What if we wanted to add more balls?
+          <a href="#e-se-quisermos-adicionar-mais-bolas">
+            E se quisermos adicionar mais bolas?
           </a>
         </li>
       
@@ -309,8 +312,8 @@
           
           
           
-          <a href="#first-steps-to-oop">
-            First steps to OOP
+          <a href="#primeiros-passos-na-poo">
+            Primeiros passos na POO
           </a>
         </li>
       
@@ -319,8 +322,8 @@
           
           
           
-          <a href="#porting-the-code">
-            Porting the code
+          <a href="#transportar-o-c%c3%b3digo">
+            Transportar o código
           </a>
         </li>
       
@@ -376,11 +379,11 @@ Já te certificaste que tens permissão para editar os ficheiros de todos os nin
 </aside>
 
 <h2 id="recapitular-o-progresso">Recapitular o progresso</h2>
-<p>Relembrar que na ultima sessão conseguimos recriar o &ldquo;bouncing ball&rdquo;. Código de demonstração disponivel <a href="https://glitch.com/edit/#!/bola-saltitante">aqui</a>.</p>
-<h2 id="what-if-we-wanted-to-add-more-balls">What if we wanted to add more balls?</h2>
-<p>Ask the ninjas how they would go about adding more balls. Encourage independent thinking here. They should come to the realization that adding any further balls will be quite tedious&hellip;so we need a better solution.</p>
-<h2 id="first-steps-to-oop">First steps to OOP</h2>
-<p>In the same file and below all the functions(it&rsquo;s best not to add your classes in a separate file to avoid confusion), use the JavaScript <em>Class</em> syntax to create a basic class.</p>
+<p>Relembrar que na última sessão conseguimos recriar o «bouncing ball». Código de demonstração disponível <a href="https://glitch.com/edit/#!/bola-saltitante">aqui</a>.</p>
+<h2 id="e-se-quisermos-adicionar-mais-bolas">E se quisermos adicionar mais bolas?</h2>
+<p>Pergunte aos ninjas com poderiam adicionar mais bolas. Encoraje pensamento independente, neste momento. Eles devem chegar à conclusão que adicionar mais bolas é muito moroso e entediante… por isso precisamos de uma melhor solução.</p>
+<h2 id="primeiros-passos-na-poo">Primeiros passos na POO</h2>
+<p>No mesmo ficheiro e abaixo de todas as funções (é melhor não colocar as classes em arquivos separados para evitar confusão), use a sintaxe de <em>Class</em> para criar uma classe básica.</p>
 <pre><code class="language-js">Class Bola {
     constructor(raio, x, y){
 
@@ -399,11 +402,11 @@ Já te certificaste que tens permissão para editar os ficheiros de todos os nin
     }
 }
 </code></pre>
-<p>Make sure to explain to them the basic idea of a class (the blueprint) and how we can create instances of a class. Explain the constructor function and liken it to the existing code we have. Emphasize the connection between the code we have and the class, ie &ldquo;we&rsquo;re not doing anything wildly different here, just wrapping our existing functions in fancy syntactical sugar&rdquo;.</p>
-<h2 id="porting-the-code">Porting the code</h2>
-<p>Now it&rsquo;s time to bring over the code you wrote last time. Add the variables in the constructor, and store them using <code>this.</code> syntax. Again, make sure to explain step-by-step what you are doing. It may not become fully apparent to them, but slowly they will start to understand. The idea is to show them the benefits that encapsulating your code brings.</p>
-<p>Function-by-function, start to copy paste code into the blocks and encourage the use of comments.</p>
-<p>The final class might look something like this:</p>
+<p>Assegure-se de explicar a ideia básica de uma classe (um modelo ou plano) e como se podem criar instâncias de uma classe. Explicar a função de construção (construtor) e mostrar como se assemelha ao código já existente. Emfatisar a ligação entre o código que temos e a classe, i.e., «não estamos a fazer nada de muito diferente do que já fizemos, estamos só a embrulhar as funções existentes numa nova sintaxe simpática, um pouco de «açúcar» sintático.</p>
+<h2 id="transportar-o-código">Transportar o código</h2>
+<p>Agora está na altura de ir buscar o código que escrevemos da última vez. Adicione as variáveis no construtor e inicialize-as usando a sintaxe <code>this.</code>. De novo, assegure-se de explicar passo a passo o que está a fazer. Pode não ser totalmente claro para eles, mas aos poucos irão percebendo. A ideia é mostrar-lhes os benefícios trazidos por encapsularmos o nosso código.</p>
+<p>Função a função, comece a cortar e colar o código para os blocos e encoraje a utilazação de comentários.</p>
+<p>A classe final poderá assemelhar-se ao seguinte:</p>
 <pre><code class="language-js">Class Bola {
   constructor(raio, x, y) {
     this.raio = raio;
