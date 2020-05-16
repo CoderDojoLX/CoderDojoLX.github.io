@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>p5 on CoderDojo LX</title>
+    <link>https://coderdojolx.github.io/tags/p5/</link>
+    <description>Recent content in p5 on CoderDojo LX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 May 2020 13:22:08 +0100</lastBuildDate>
+    
+	<atom:link href="https://coderdojolx.github.io/tags/p5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sessão 3: p5.js@Glitch</title>
+      <link>https://coderdojolx.github.io/index.md/</link>
+      <pubDate>Sat, 16 May 2020 13:22:08 +0100</pubDate>
+      
+      <guid>https://coderdojolx.github.io/index.md/</guid>
+      <description>Guia para mentores e interessados para a Sessão #3 de p5.js (programação criativa).
+ Código de demonstração (guia) para a sessão
+ Já te certificaste que tens permissão para editar os ficheiros de todos os ninjas? Recapitular o progresso Relembrar que na ultima sessão conseguimos recriar o &amp;ldquo;bouncing ball&amp;rdquo;. Código de demonstração disponivel aqui.
+What if we wanted to add more balls? Ask the ninjas how they would go about adding more balls.</description>
+    </item>
+    
+  </channel>
+</rss>
