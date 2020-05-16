@@ -381,7 +381,7 @@ Já te certificaste que tens permissão para editar os ficheiros de todos os nin
 <p>Ask the ninjas how they would go about adding more balls. Encourage independent thinking here. They should come to the realization that adding any further balls will be quite tedious&hellip;so we need a better solution.</p>
 <h2 id="first-steps-to-oop">First steps to OOP</h2>
 <p>In the same file and below all the functions(it&rsquo;s best not to add your classes in a separate file to avoid confusion), use the JavaScript <em>Class</em> syntax to create a basic class.</p>
-<pre><code class="language-js">Class Bola {
+<pre><code class="language-javascipt">Class Bola {
     constructor(raio, x, y){
 
     }
@@ -404,7 +404,7 @@ Já te certificaste que tens permissão para editar os ficheiros de todos os nin
 <p>Now it&rsquo;s time to bring over the code you wrote last time. Add the variables in the constructor, and store them using <code>this.</code> syntax. Again, make sure to explain step-by-step what you are doing. It may not become fully apparent to them, but slowly they will start to understand. The idea is to show them the benefits that encapsulating your code brings.</p>
 <p>Function-by-function, start to copy paste code into the blocks and encourage the use of comments.</p>
 <p>The final class might look something like this:</p>
-<pre><code class="language-js">Class Bola {
+<pre><code class="language-javascipt">Class Bola {
   constructor(raio, x, y) {
     this.raio = raio;
     this.x = x;
@@ -436,10 +436,10 @@ Já te certificaste que tens permissão para editar os ficheiros de todos os nin
 </code></pre>
 <h2 id="creating-the-first-ball">Creating the first ball</h2>
 <p>Now it&rsquo;s time to create an object of your class. Introduce the keyword <code>new</code> to them and provide useful analogies. Start by creating one instance of the class using <code>let bola;</code> before the <code>setup()</code> function. This ensures the variable is a global variable. Then in <code>setup()</code> instantiate the class using something like this:</p>
-<pre><code class="language-js">bola = new Bola(random(10, 40), width / 2, height / 2);
+<pre><code class="language-javascipt">bola = new Bola(random(10, 40), width / 2, height / 2);
 </code></pre>
 <p>Now add the three functions that must be called in draw:</p>
-<pre><code class="language-js">// houve alguma colisão com as paredes?
+<pre><code class="language-javascipt">// houve alguma colisão com as paredes?
 bola.verificarParedes();
 // salta, bola, salta!
 bola.saltar(acel);
@@ -450,7 +450,7 @@ bola.desenhar();
 <h2 id="manipulating-arrays">Manipulating arrays</h2>
 <p>Now it&rsquo;s time to move to arrays. Use JS syntax to create an array: <code>let bolas = [];</code> and replace the bolas declaration you had before. Now simply use the <code>push</code> function to append items to the array like so: <code>bolas.push(new Bola(random(10, 40), width/2, height/2));</code>.</p>
 <p>To iterate over the balls, use a <code>for...of</code> loop like so:</p>
-<pre><code class="language-js">for (bola of bolas) {
+<pre><code class="language-javascript">for (bola of bolas) {
   // houve alguma colisão com as paredes?
   bola.verificarParedes();
   // salta, bola, salta!
@@ -463,7 +463,7 @@ bola.desenhar();
 <h2 id="final-tweaks">Final tweaks</h2>
 <p>You can implement many additional functions once you have the core idea going. Perhaps encourage them to play around, add new colors, user interaction, etc.</p>
 <p>An implementation of spawning a new ball every time the mouse is pressed is shown below:</p>
-<pre><code class="language-js">function mousePressed() {
+<pre><code class="language-javascipt">function mousePressed() {
   bolas.push(new Bola(random(10, 40), mouseX, mouseY));
 }
 </code></pre>
