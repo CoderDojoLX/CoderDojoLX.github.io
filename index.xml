@@ -28,7 +28,18 @@
       <guid>https://coderdojolx.github.io/first/</guid>
       <description>Para melhor te preparares para a tua primeira sessão no CoderDojo LX, segue as instruções em baixo, acedendo à página com o título correspondendo ao tema da sessão.
 Sessões de Scratch Nas sessões de Scratch aprenderás os princípios da programação usando a língua de blocos Scratch. Segue as instruções aqui.
-Sessões de p5.js </description>
+Sessões de p5.js Nas sessões de p5.js aprenderás como criar jogos, animações e mais usando a língua de programação JavaScript. Segue as instruções aqui.</description>
+    </item>
+    
+    <item>
+      <title>A minha primeira sessão: p5.js</title>
+      <link>https://coderdojolx.github.io/comecar-p5/</link>
+      <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
+      
+      <guid>https://coderdojolx.github.io/comecar-p5/</guid>
+      <description>O que precisas  O navegador Chrome ou Firefox (atualizado)  Desligar a tradução automática do Chrome se for preciso
+ Um microfone (o microfone do computador dá perfeitamente) Webcam (opcional) Uma conta no Glitch (ver vídeo em baixo)  O Glitch é uma plataforma de programação colaborativa parecida ao Scratch mas para o JavaScript
+Instruções  Segue este tutorial de video para criares uma conta na plataforma Glitch.</description>
     </item>
     
     <item>
@@ -40,6 +51,15 @@ Sessões de p5.js </description>
       <description>Parece que queres ser um mestre da programação :) Fixe! Vamos a isso&amp;hellip;
 Já sou ninja Vai à página do CoderDojo LX na plataforma Zen da Fundação CoderDojo e inscreve-te no próximo evento.
 Quero ser ninja Se tiveres menos de 13 anos, pede ao teu encarregado de educação para te registar, além de se registar a ele(a) próprio(a), e para fazer ele(a) a vossa inscrição seguindo os passos abaixo.</description>
+    </item>
+    
+    <item>
+      <title>Sessões remotas</title>
+      <link>https://coderdojolx.github.io/remote/</link>
+      <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
+      
+      <guid>https://coderdojolx.github.io/remote/</guid>
+      <description> Inscreve-te no nosso Slack, se ainda não o fizeste. Segue a ligação https://bit.ly/cdlx-slack e cria uma conta. Depois, instala a app do Slack no telemóvel (iOS ou Android) e inicia sessão na nova conta. Vai até à nossa plataforma de videoconferência e cria uma conta. Usa um nome que permita identificar-te facilmente.  </description>
     </item>
     
     <item>

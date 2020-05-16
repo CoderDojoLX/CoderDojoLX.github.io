@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>starter</title>
-      <link>https://coderdojolx.github.io/tags/starter/</link>
+      <title>beginner</title>
+      <link>https://coderdojolx.github.io/tags/beginner/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://coderdojolx.github.io/tags/starter/</guid>
+      <guid>https://coderdojolx.github.io/tags/beginner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guia</title>
+      <link>https://coderdojolx.github.io/tags/guia/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://coderdojolx.github.io/tags/guia/</guid>
       <description></description>
     </item>
     
