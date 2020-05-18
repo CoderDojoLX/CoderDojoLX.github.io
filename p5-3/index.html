@@ -250,7 +250,7 @@
       
         
           <br>
-          <strong aria-hidden="true">Last updated: </strong>May 16, 2020
+          <strong aria-hidden="true">Last updated: </strong>May 18, 2020
         
       
     </div>
@@ -332,8 +332,8 @@
           
           
           
-          <a href="#creating-the-first-ball">
-            Creating the first ball
+          <a href="#criando-a-primeira-bola">
+            Criando a primeira bola
           </a>
         </li>
       
@@ -342,8 +342,8 @@
           
           
           
-          <a href="#manipulating-arrays">
-            Manipulating arrays
+          <a href="#manipulando-arrays">
+            Manipulando arrays
           </a>
         </li>
       
@@ -352,8 +352,8 @@
           
           
           
-          <a href="#final-tweaks">
-            Final tweaks
+          <a href="#ajustes-finais">
+            Ajustes finais
           </a>
         </li>
       
@@ -407,7 +407,7 @@ Já te certificaste que tens permissão para editar os ficheiros de todos os nin
 <p>Agora está na altura de ir buscar o código que escrevemos da última vez. Adicione as variáveis no construtor e inicialize-as usando a sintaxe <code>this.</code>. De novo, assegure-se de explicar passo a passo o que está a fazer. Pode não ser totalmente claro para eles, mas aos poucos irão percebendo. A ideia é mostrar-lhes os benefícios trazidos por encapsularmos o nosso código.</p>
 <p>Função a função, comece a cortar e colar o código para os blocos e encoraje a utilazação de comentários.</p>
 <p>A classe final poderá assemelhar-se ao seguinte:</p>
-<pre><code class="language-js">Class Bola {
+<pre><code class="language-js">class Bola {
   constructor(raio, x, y) {
     this.raio = raio;
     this.x = x;
@@ -437,11 +437,11 @@ Já te certificaste que tens permissão para editar os ficheiros de todos os nin
   }
 }
 </code></pre>
-<h2 id="creating-the-first-ball">Creating the first ball</h2>
-<p>Now it&rsquo;s time to create an object of your class. Introduce the keyword <code>new</code> to them and provide useful analogies. Start by creating one instance of the class using <code>let bola;</code> before the <code>setup()</code> function. This ensures the variable is a global variable. Then in <code>setup()</code> instantiate the class using something like this:</p>
+<h2 id="criando-a-primeira-bola">Criando a primeira bola</h2>
+<p>Agora é altura de criar um objecto (uma «instância») da classe. Apresente-lhes a palavra-chave <code>new</code> e faça analogias úteis. Comece por criar uma variável para guardar a instância da classe usando <code>let bola;</code> antes da função <code>setup()</code>. Isto garante que a variável é global. Depois, na função <code>setup()</code>, instancie a classe usando algo com o seguinte:</p>
 <pre><code class="language-js">bola = new Bola(random(10, 40), width / 2, height / 2);
 </code></pre>
-<p>Now add the three functions that must be called in draw:</p>
+<p>Agora adicione as três funções (ou «métodos») que devem ser invocadas na função <code>draw()</code>:</p>
 <pre><code class="language-js">// houve alguma colisão com as paredes?
 bola.verificarParedes();
 // salta, bola, salta!
@@ -449,10 +449,10 @@ bola.saltar(acel);
 // desenhar a bola
 bola.desenhar();
 </code></pre>
-<p>The code should run the same as last time. Some tweaks should be made in setup to preserve styles and colors.</p>
-<h2 id="manipulating-arrays">Manipulating arrays</h2>
-<p>Now it&rsquo;s time to move to arrays. Use JS syntax to create an array: <code>let bolas = [];</code> and replace the bolas declaration you had before. Now simply use the <code>push</code> function to append items to the array like so: <code>bolas.push(new Bola(random(10, 40), width/2, height/2));</code>.</p>
-<p>To iterate over the balls, use a <code>for...of</code> loop like so:</p>
+<p>O código deve funcionar tal como antes. Deve-se fazer alguns ajuste na função <code>setup()</code> para preservar estilos e cores.</p>
+<h2 id="manipulando-arrays">Manipulando <em>arrays</em></h2>
+<p>Vamos avançar para os <em>arrays</em>. Use a syntaxe JavaScript para criar um <em>array</em> <code>let bolas = [];</code>, substituindo a declaração de <code>bola</code> já existente. Agora use simplesmente a função <code>push()</code> para acrescentar itens ao <em>array</em>: <code>bolas.push(new Bola(random(10, 40), width/2, height/2));</code>.</p>
+<p>Para percorrer as bolas (ou «iterar» ao longo do <em>array</em>), use um ciclo <code>for...of</code>:</p>
 <pre><code class="language-js">for (bola of bolas) {
   // houve alguma colisão com as paredes?
   bola.verificarParedes();
@@ -462,10 +462,10 @@ bola.desenhar();
   bola.desenhar();
 }
 </code></pre>
-<p>That should be it!</p>
-<h2 id="final-tweaks">Final tweaks</h2>
-<p>You can implement many additional functions once you have the core idea going. Perhaps encourage them to play around, add new colors, user interaction, etc.</p>
-<p>An implementation of spawning a new ball every time the mouse is pressed is shown below:</p>
+<p>E é isto!</p>
+<h2 id="ajustes-finais">Ajustes finais</h2>
+<p>Pode implementar funções adicionais assim que a ideia principal já esteja a funcionar. Talvez seja boa ideia encorajá-los a brincar um pouco, adicionando cores, interacção com o utilizador, etc.</p>
+<p>Uma implementação fazendo nascer uma nova bola sob o ponteiro do rato sempre que se clica nele é a seguinte:</p>
 <pre><code class="language-js">function mousePressed() {
   bolas.push(new Bola(random(10, 40), mouseX, mouseY));
 }

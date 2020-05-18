@@ -6,10 +6,19 @@
     <description>Recent content in beginner on CoderDojo LX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://coderdojolx.github.io/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A minha primeira sessão: Minecraft</title>
+      <link>https://coderdojolx.github.io/primeira-minecraft/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://coderdojolx.github.io/primeira-minecraft/</guid>
+      <description>Página em construção</description>
+    </item>
     
     <item>
       <title>A minha primeira sessão: Scratch</title>
@@ -17,7 +26,7 @@
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://coderdojolx.github.io/primeira-scratch/</guid>
-      <description>Assegura-te que tens disponível um portátil para levares contigo. Nesse portátil, instala o Chrome, de preferência. Se necessário instala o Firefox ou o Edge. Vai ao sítio web do Scratch e adere ao serviço. Assegura-te, na base da página do Scratch, de que estás a usar a versão em português de Portugal. Se tiveres menos de 13 anos, introduz o endereço de correio electrónico de um encarregado de educação. Se der erro ao finalizares o registo, repete-o, mas escolhe outro nome de utilizador, um que seja pouco provável ser repetido.</description>
+      <description>Assegura-te de que tens disponível um portátil para levares contigo, se for uma sessão presencial, ou um computador para trabalhares, se for uma sessão remota. Nesse portátil ou computador instala o Chrome, de preferência. Se necessário instala o Firefox ou o Edge. Vai ao sítio web do Scratch e adere ao serviço. Assegura-te, na base da página do Scratch, de que estás a usar a versão em português de Portugal.</description>
     </item>
     
     <item>
@@ -26,7 +35,7 @@
       <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
       
       <guid>https://coderdojolx.github.io/primeira-p5/</guid>
-      <description>O que precisas  O navegador Chrome ou Firefox (atualizado) Um microfone (o microfone do computador dá perfeitamente) Webcam (opcional) Uma conta no Glitch (ver vídeo em baixo)    O Glitch é uma plataforma de programação colaborativa parecida ao Scratch mas para o JavaScript
+      <description>O que precisas  O navegador Chrome ou Firefox (actualizado) Um microfone (o microfone do computador dá perfeitamente) Webcam (opcional) Uma conta no Glitch (ver vídeo em baixo)    O Glitch é uma plataforma de programação colaborativa parecida com o Scratch, mas para programação em JavaScript.
  Instruções  Segue este tutorial de video para criares uma conta na plataforma Glitch.     Se tiveres menos de 13 anos, introduz o endereço de correio electrónico de um encarregado de educação.</description>
     </item>
     
