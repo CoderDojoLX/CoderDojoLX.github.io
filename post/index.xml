@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on CoderDojo LX</title>
-    <link>https://coderdojo-lx.pt/post/</link>
+    <link>https://coderdojolx.github.io/post/</link>
     <description>Recent content in Blog on CoderDojo LX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://coderdojo-lx.pt/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coderdojolx.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sessão 3: p5.js@Glitch</title>
-      <link>https://coderdojo-lx.pt/p5-3/</link>
+      <link>https://coderdojolx.github.io/p5-3/</link>
       <pubDate>Sat, 16 May 2020 13:22:08 +0100</pubDate>
       
-      <guid>https://coderdojo-lx.pt/p5-3/</guid>
+      <guid>https://coderdojolx.github.io/p5-3/</guid>
       <description>Guia para mentores e interessados para a Sessão #3 de p5.js (programação criativa).
  Código de demonstração (guia) para a sessão
  Já te certificaste que tens permissão para editar os ficheiros de todos os ninjas?Recapitular o progresso Relembrar que na última sessão conseguimos recriar o «bouncing ball». Código de demonstração disponível aqui.
@@ -24,19 +24,19 @@ E se quisermos adicionar mais bolas? Pergunte aos ninjas com poderiam adicionar 
     
     <item>
       <title>A minha primeira sessão: Scratch</title>
-      <link>https://coderdojo-lx.pt/primeira-scratch/</link>
+      <link>https://coderdojolx.github.io/primeira-scratch/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://coderdojo-lx.pt/primeira-scratch/</guid>
+      <guid>https://coderdojolx.github.io/primeira-scratch/</guid>
       <description>Assegura-te que tens disponível um portátil para levares contigo. Nesse portátil, instala o Chrome, de preferência. Se necessário instala o Firefox ou o Edge. Vai ao sítio web do Scratch e adere ao serviço. Assegura-te, na base da página do Scratch, de que estás a usar a versão em português de Portugal. Se tiveres menos de 13 anos, introduz o endereço de correio electrónico de um encarregado de educação. Se der erro ao finalizares o registo, repete-o, mas escolhe outro nome de utilizador, um que seja pouco provável ser repetido.</description>
     </item>
     
     <item>
       <title>O que é o CoderDojo?</title>
-      <link>https://coderdojo-lx.pt/about-cd/</link>
+      <link>https://coderdojolx.github.io/about-cd/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://coderdojo-lx.pt/about-cd/</guid>
+      <guid>https://coderdojolx.github.io/about-cd/</guid>
       <description>Uma só regra…Sê Fixe!
 O Compromisso CoderDojo  Aprendizagem Aberta, Livre e Gratuita!
  Os Princípios do CoderDojo  O nosso contexto é a aprendizagem aberta, livre, gratuita e dirigida pelos jovens. Aderimos ao código aberto. A segurança dos jovens sobrepõe-se a tudo, excepto ao senso comum. A participação é sempre gratuita. Brincar e criar dirigem a nossa aprendizagem; partilhamos o que aprendemos. Aquilo que funciona num CoderDojo particular é partilhado, e não imposto.</description>
@@ -44,20 +44,20 @@ O Compromisso CoderDojo  Aprendizagem Aberta, Livre e Gratuita!
     
     <item>
       <title>Sessões remotas</title>
-      <link>https://coderdojo-lx.pt/remote/</link>
+      <link>https://coderdojolx.github.io/remote/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://coderdojo-lx.pt/remote/</guid>
+      <guid>https://coderdojolx.github.io/remote/</guid>
       <description>Queres participar nas nossas sessões remotas? Estás no sítio certo :)
  Inscreve-te no nosso Slack, se ainda não o fizeste. Segue a ligação https://bit.ly/cdlx-slack e cria uma conta. Depois, instala a app do Slack no telemóvel (iOS ou Android) e inicia sessão na nova conta. Vai até à nossa plataforma de videoconferência e cria uma conta. Usa um nome que permita identificar-te facilmente.  </description>
     </item>
     
     <item>
       <title>A minha primeira sessão: p5.js</title>
-      <link>https://coderdojo-lx.pt/primeira-p5/</link>
+      <link>https://coderdojolx.github.io/primeira-p5/</link>
       <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
       
-      <guid>https://coderdojo-lx.pt/primeira-p5/</guid>
+      <guid>https://coderdojolx.github.io/primeira-p5/</guid>
       <description>O que precisas  O navegador Chrome ou Firefox (atualizado) Um microfone (o microfone do computador dá perfeitamente) Webcam (opcional) Uma conta no Glitch (ver vídeo em baixo)   O Glitch é uma plataforma de programação colaborativa parecida ao Scratch mas para o JavaScript
  Instruções  Segue este tutorial de video para criares uma conta na plataforma Glitch.  Se tiveres menos de 13 anos, introduz o endereço de correio electrónico de um encarregado de educação.</description>
     </item>

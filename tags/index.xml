@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CoderDojo LX</title>
-    <link>https://coderdojo-lx.pt/tags/</link>
+    <link>https://coderdojolx.github.io/tags/</link>
     <description>Recent content in Tags on CoderDojo LX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 May 2020 13:22:08 +0100</lastBuildDate>
     
-	<atom:link href="https://coderdojo-lx.pt/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coderdojolx.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>p5</title>
-      <link>https://coderdojo-lx.pt/tags/p5/</link>
+      <link>https://coderdojolx.github.io/tags/p5/</link>
       <pubDate>Sat, 16 May 2020 13:22:08 +0100</pubDate>
       
-      <guid>https://coderdojo-lx.pt/tags/p5/</guid>
+      <guid>https://coderdojolx.github.io/tags/p5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sessao-remota</title>
-      <link>https://coderdojo-lx.pt/tags/sessao-remota/</link>
+      <link>https://coderdojolx.github.io/tags/sessao-remota/</link>
       <pubDate>Sat, 16 May 2020 13:22:08 +0100</pubDate>
       
-      <guid>https://coderdojo-lx.pt/tags/sessao-remota/</guid>
+      <guid>https://coderdojolx.github.io/tags/sessao-remota/</guid>
       <description></description>
     </item>
     
     <item>
       <title>beginner</title>
-      <link>https://coderdojo-lx.pt/tags/beginner/</link>
+      <link>https://coderdojolx.github.io/tags/beginner/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://coderdojo-lx.pt/tags/beginner/</guid>
+      <guid>https://coderdojolx.github.io/tags/beginner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>guia</title>
-      <link>https://coderdojo-lx.pt/tags/guia/</link>
+      <link>https://coderdojolx.github.io/tags/guia/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://coderdojo-lx.pt/tags/guia/</guid>
+      <guid>https://coderdojolx.github.io/tags/guia/</guid>
       <description></description>
     </item>
     

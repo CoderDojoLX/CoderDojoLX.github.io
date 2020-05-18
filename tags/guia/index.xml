@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>guia on CoderDojo LX</title>
-    <link>https://coderdojo-lx.pt/tags/guia/</link>
+    <link>https://coderdojolx.github.io/tags/guia/</link>
     <description>Recent content in guia on CoderDojo LX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://coderdojo-lx.pt/tags/guia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coderdojolx.github.io/tags/guia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A minha primeira sessão: Scratch</title>
-      <link>https://coderdojo-lx.pt/primeira-scratch/</link>
+      <link>https://coderdojolx.github.io/primeira-scratch/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://coderdojo-lx.pt/primeira-scratch/</guid>
+      <guid>https://coderdojolx.github.io/primeira-scratch/</guid>
       <description>Assegura-te que tens disponível um portátil para levares contigo. Nesse portátil, instala o Chrome, de preferência. Se necessário instala o Firefox ou o Edge. Vai ao sítio web do Scratch e adere ao serviço. Assegura-te, na base da página do Scratch, de que estás a usar a versão em português de Portugal. Se tiveres menos de 13 anos, introduz o endereço de correio electrónico de um encarregado de educação. Se der erro ao finalizares o registo, repete-o, mas escolhe outro nome de utilizador, um que seja pouco provável ser repetido.</description>
     </item>
     
     <item>
       <title>Sessões remotas</title>
-      <link>https://coderdojo-lx.pt/remote/</link>
+      <link>https://coderdojolx.github.io/remote/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://coderdojo-lx.pt/remote/</guid>
+      <guid>https://coderdojolx.github.io/remote/</guid>
       <description>Queres participar nas nossas sessões remotas? Estás no sítio certo :)
  Inscreve-te no nosso Slack, se ainda não o fizeste. Segue a ligação https://bit.ly/cdlx-slack e cria uma conta. Depois, instala a app do Slack no telemóvel (iOS ou Android) e inicia sessão na nova conta. Vai até à nossa plataforma de videoconferência e cria uma conta. Usa um nome que permita identificar-te facilmente.  </description>
     </item>
     
     <item>
       <title>A minha primeira sessão: p5.js</title>
-      <link>https://coderdojo-lx.pt/primeira-p5/</link>
+      <link>https://coderdojolx.github.io/primeira-p5/</link>
       <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
       
-      <guid>https://coderdojo-lx.pt/primeira-p5/</guid>
+      <guid>https://coderdojolx.github.io/primeira-p5/</guid>
       <description>O que precisas  O navegador Chrome ou Firefox (atualizado) Um microfone (o microfone do computador dá perfeitamente) Webcam (opcional) Uma conta no Glitch (ver vídeo em baixo)   O Glitch é uma plataforma de programação colaborativa parecida ao Scratch mas para o JavaScript
  Instruções  Segue este tutorial de video para criares uma conta na plataforma Glitch.  Se tiveres menos de 13 anos, introduz o endereço de correio electrónico de um encarregado de educação.</description>
     </item>
