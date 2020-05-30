@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>guia on CoderDojo LX</title>
-    <link>https://coderdojolx.github.io/tags/guia/</link>
+    <link>https://coderdojo-lx.pt/tags/guia/</link>
     <description>Recent content in guia on CoderDojo LX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://coderdojolx.github.io/tags/guia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://coderdojo-lx.pt/tags/guia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A minha primeira sessão: Minecraft</title>
-      <link>https://coderdojolx.github.io/primeira-minecraft/</link>
+      <link>https://coderdojo-lx.pt/primeira-minecraft/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://coderdojolx.github.io/primeira-minecraft/</guid>
+      <guid>https://coderdojo-lx.pt/primeira-minecraft/</guid>
       <description>Página em construção</description>
     </item>
     
     <item>
       <title>A minha primeira sessão: Scratch</title>
-      <link>https://coderdojolx.github.io/primeira-scratch/</link>
+      <link>https://coderdojo-lx.pt/primeira-scratch/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://coderdojolx.github.io/primeira-scratch/</guid>
+      <guid>https://coderdojo-lx.pt/primeira-scratch/</guid>
       <description>Assegura-te de que tens disponível um portátil para levares contigo, se for uma sessão presencial, ou um computador para trabalhares, se for uma sessão remota. Nesse portátil ou computador instala o Chrome, de preferência. Se necessário instala o Firefox ou o Edge. Vai ao sítio web do Scratch e adere ao serviço. Assegura-te, na base da página do Scratch, de que estás a usar a versão em português de Portugal.</description>
     </item>
     
     <item>
       <title>Sessões remotas</title>
-      <link>https://coderdojolx.github.io/remote/</link>
+      <link>https://coderdojo-lx.pt/remote/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://coderdojolx.github.io/remote/</guid>
+      <guid>https://coderdojo-lx.pt/remote/</guid>
       <description>Queres participar nas nossas sessões remotas? Estás no sítio certo! :)
  Inscreve-te no nosso Slack, se ainda não o fizeste. Segue a ligação https://bit.ly/cdlx-slack e cria uma conta. Depois, instala a app do Slack no telemóvel (iOS ou Android) e inicia sessão na nova conta. Vai até à nossa plataforma de videoconferência e cria uma conta. Usa um nome que permita identificar-te facilmente.  </description>
     </item>
     
     <item>
       <title>A minha primeira sessão: p5.js</title>
-      <link>https://coderdojolx.github.io/primeira-p5/</link>
+      <link>https://coderdojo-lx.pt/primeira-p5/</link>
       <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
       
-      <guid>https://coderdojolx.github.io/primeira-p5/</guid>
+      <guid>https://coderdojo-lx.pt/primeira-p5/</guid>
       <description>O que precisas  O navegador Chrome ou Firefox (actualizado) Um microfone (o microfone do computador dá perfeitamente) Webcam (opcional) Uma conta no Glitch (ver vídeo em baixo)   O Glitch é uma plataforma de programação colaborativa parecida com o Scratch, mas para programação em JavaScript.
  Instruções  Segue este tutorial de video para criares uma conta na plataforma Glitch.  Se tiveres menos de 13 anos, introduz o endereço de correio electrónico de um encarregado de educação.</description>
     </item>
