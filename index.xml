@@ -37,7 +37,7 @@
       <guid>https://www.coderdojo-lx.pt/p5-3/</guid>
       <description>Guia para mentores e interessados para a Sessão #3 de p5.js (programação criativa).
  Código de demonstração (guia) para a sessão
- Já te certificaste que tens permissão para editar os ficheiros de todos os ninjas?Recapitular o progresso Relembrar que na última sessão conseguimos recriar o «bouncing ball». Código de demonstração disponível aqui.
+    Já te certificaste que tens permissão para editar os ficheiros de todos os ninjas?   Recapitular o progresso Relembrar que na última sessão conseguimos recriar o «bouncing ball». Código de demonstração disponível aqui.
 E se quisermos adicionar mais bolas? Pergunte aos ninjas com poderiam adicionar mais bolas.</description>
     </item>
     
@@ -51,7 +51,7 @@ E se quisermos adicionar mais bolas? Pergunte aos ninjas com poderiam adicionar 
     </item>
     
     <item>
-      <title>Fala com o CoderDojo LX</title>
+      <title>Contacta-nos!</title>
       <link>https://www.coderdojo-lx.pt/contact/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
@@ -83,7 +83,7 @@ O Compromisso CoderDojo  Aprendizagem Aberta, Livre e Gratuita!
     </item>
     
     <item>
-      <title>Sobre o CoderDojo LX</title>
+      <title>Sobre nós</title>
       <link>https://www.coderdojo-lx.pt/about/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
@@ -95,39 +95,17 @@ Quem somos? Mentores Os mentores podem ser um adulto que participa nas sessões 
     </item>
     
     <item>
-      <title>A minha primeira sessão</title>
-      <link>https://www.coderdojo-lx.pt/first/</link>
-      <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
-      
-      <guid>https://www.coderdojo-lx.pt/first/</guid>
-      <description>Para melhor te preparares para a tua primeira sessão no CoderDojo LX, segue as instruções em baixo, acedendo à página com o título correspondente ao tema da sessão.
-Sessões de Scratch Nas sessões de Scratch aprenderás os princípios da programação usando a linguagem de programação visual chamada Scratch. Segue as instruções aqui.
-Sessões de p5.js Nas sessões de p5.js aprenderás como criar jogos, animações e mais usando a linguagem de programação JavaScript e a biblioteca p5.</description>
-    </item>
-    
-    <item>
       <title>A minha primeira sessão: p5.js</title>
       <link>https://www.coderdojo-lx.pt/primeira-p5/</link>
       <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
       
       <guid>https://www.coderdojo-lx.pt/primeira-p5/</guid>
-      <description>O que precisas  O navegador Chrome ou Firefox (actualizado) Um microfone (o microfone do computador dá perfeitamente) Webcam (opcional) Uma conta no Glitch (ver vídeo em baixo)   O Glitch é uma plataforma de programação colaborativa parecida com o Scratch, mas para programação em JavaScript.
- Instruções  Segue este tutorial de video para criares uma conta na plataforma Glitch.  Se tiveres menos de 13 anos, introduz o endereço de correio electrónico de um encarregado de educação.</description>
+      <description>O que precisas  O navegador Chrome ou Firefox (actualizado) Um microfone (o microfone do computador dá perfeitamente) Webcam (opcional) Uma conta no Glitch (ver vídeo em baixo)    O Glitch é uma plataforma de programação colaborativa parecida com o Scratch, mas para programação em JavaScript.
+ Instruções  Segue este tutorial de video para criares uma conta na plataforma Glitch.     Se tiveres menos de 13 anos, introduz o endereço de correio electrónico de um encarregado de educação.</description>
     </item>
     
     <item>
-      <title>Inscreve-te</title>
-      <link>https://www.coderdojo-lx.pt/signup/</link>
-      <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
-      
-      <guid>https://www.coderdojo-lx.pt/signup/</guid>
-      <description>Parece que queres ser um mestre da programação :) Fixe! Vamos a isso&amp;hellip;
-Já sou ninja Vai à página do CoderDojo LX na plataforma Zen da Fundação CoderDojo e inscreve-te no próximo evento.
-Quero ser ninja Se tiveres menos de 13 anos, pede ao teu encarregado de educação para te registar, além de se registar a ele(a) próprio(a), e para fazer ele(a) a vossa inscrição seguindo os passos abaixo.</description>
-    </item>
-    
-    <item>
-      <title>Quero começar a programar já!</title>
+      <title>Começa já!</title>
       <link>https://www.coderdojo-lx.pt/start/</link>
       <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
       
@@ -136,6 +114,28 @@ Quero ser ninja Se tiveres menos de 13 anos, pede ao teu encarregado de educa
 Segue os nossos percursos de aprendizagem.
 Tenho menos de 8 anos Tenho entre 8 e 13 anos Vamos começar com o p5.
 Tenho mais de 13 anos </description>
+    </item>
+    
+    <item>
+      <title>Inscreve-te!</title>
+      <link>https://www.coderdojo-lx.pt/signup/</link>
+      <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/signup/</guid>
+      <description>Parece que queres ser um mestre da programação :) Fixe! Vamos a isso&amp;hellip;
+Já sou ninja Vai à página do CoderDojo LX na plataforma Zen da Fundação CoderDojo e inscreve-te no próximo evento.
+Quero ser ninja    Se tiveres menos de 13 anos, pede ao teu encarregado de educação para te registar, além de se registar a ele(a) próprio(a), e para fazer ele(a) a vossa inscrição seguindo os passos abaixo.</description>
+    </item>
+    
+    <item>
+      <title>Prepara-te!</title>
+      <link>https://www.coderdojo-lx.pt/first/</link>
+      <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/first/</guid>
+      <description>Para melhor te preparares para a tua primeira sessão no CoderDojo LX, segue as instruções em baixo, acedendo à página com o título correspondente ao tema da sessão.
+Sessões de Scratch Nas sessões de Scratch aprenderás os princípios da programação usando a linguagem de programação visual chamada Scratch. Segue as instruções aqui.
+Sessões de p5.js Nas sessões de p5.js aprenderás como criar jogos, animações e mais usando a linguagem de programação JavaScript e a biblioteca p5.</description>
     </item>
     
   </channel>
