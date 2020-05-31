@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programação web on CoderDojo LX</title>
+    <link>https://www.coderdojo-lx.pt/tags/programa%C3%A7%C3%A3o-web/</link>
+    <description>Recent content in programação web on CoderDojo LX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Sun, 31 May 2020 18:00:08 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.coderdojo-lx.pt/tags/programa%C3%A7%C3%A3o-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programação web com HTML/CSS</title>
+      <link>https://www.coderdojo-lx.pt/html-css/</link>
+      <pubDate>Sun, 31 May 2020 18:00:08 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/html-css/</guid>
+      <description>Vamos programar para a web com o HTML/CSS! Constrói o teu próprio sítio web aprendendo HTML/CSS à medida que constróis o sítio web dos Nanonautas!
+Introdução Livro Neste percurso de aprendizagem vamos seguir o livro Criar com Código: Constrói o teu Sítio Web, de Clyde Hatter, editado pela Planeta. O livro pertence à colecção CoderDojo Nano que é promovida pela Fundação CoderDojo. Não deixes de ver a página web de apoio ao livro.</description>
+    </item>
+    
+  </channel>
+</rss>
