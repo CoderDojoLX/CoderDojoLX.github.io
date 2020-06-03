@@ -390,13 +390,23 @@
           </a>
         </li>
       
+        <li>
+          
+          
+          
+          
+          <a href="#mais-uma-p%c3%a1gina">
+            Mais uma página
+          </a>
+        </li>
+      
     </ol>
   </nav>
 
 
     
 
-    <p>Nesta secção do percurso de aprendizagem <a href="/html-css">Programação web com HTML/CSS</a>
+    <p>Nesta lição do percurso de aprendizagem <a href="/html-css">Programação web com HTML/CSS</a>
  vamos ver o que é a web, o que são sítios e páginas web, e como podemos programar para a web usando o HTML e o CSS.</p>
 <h2 id="recursos">Recursos</h2>
 <ul>
@@ -788,11 +798,89 @@ body {
 <li>Usa <code>Courier</code> na regra acima. Qual o resultado?</li>
 </ul>
 <h2 id="imagens">Imagens</h2>
-<p>Adicionar ao Glitch.</p>
-<p>Adicionar ao HTML</p>
-<p>O elemento <code>IMG</code> e os seus atributos.</p>
-<p>O endereço da imagem.</p>
-<p>Vendo o resultado.</p>
+<p>A página <code>sobre-nos.html</code> ficaria muito melhor com uma imagem. Vamos adicioná-la. Para isso:</p>
+<ul>
+<li>Mantem o Glitch aberto no teu projecto.</li>
+<li>Vai ao explorador de ficheiros no teu sistema operativo e localiza a imagem <code>nanonautas.jpg</code>. Arrasta-a para cima do teu projecto Glitch. A tua imagem deve surgir nos «assets» do projecto. Clica sobre «assets», no painel esquerdo, para a veres.</li>
+</ul>
+<p>Agora que já temos a imagem no projecto, vamos adicioná-la à página. Clica no arquivo <code>sobre-nos.html</code> no painel da esquerda e adiciona o elemento <code>IMG</code> abaixo, dentro do correspondente elemento <code>P</code>, de modo a ficares com o seguinte conteúdo:</p>
+<pre><code class="language-HTML">&lt;!DOCTYPE html&gt;
+
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;title&gt;Sobre Nós&lt;/title&gt;
+    &lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;css/minha-folha-de-estilo.css&quot;/&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Sobre Nós&lt;/h1&gt;
+    &lt;p&gt;&lt;img src=&quot;URL da imagem&quot; alt=&quot;Retrato dos Nanonautas&quot;/&gt;&lt;/p&gt;
+    &lt;p&gt;Somos os Nanonautas.&lt;/p&gt;
+    &lt;p&gt;Chamamo-nos Holly, Dervla, Daniel e Sam.&lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+<p>Agora, no painel da direita, clica sobre <code>sobre-nos.html</code>. Vês a imagem? Não a vez, certo? Em vez dela, surge o texto «Retrato dos Nanonautas». Para corrigires o problema:</p>
+<ul>
+<li>Volta a clicar sobre «assets» no painel da esquerda.</li>
+<li>Clica sobre a tua imagem. O Glitch abre a imagem e mostra-te o endereço onde ela ficou.</li>
+<li>Clica no botão «Copy», à direita do endereço.</li>
+<li>Volta ao arquivo <code>sobre-nos.html</code>.</li>
+<li>Apaga o texto «URL da imagem» (mas não apagues as aspas!) e cola, entre as aspas, o endereço que copiaste.</li>
+<li>Clica sobre <code>sobre-nos.html</code> no painel da direita.</li>
+</ul>
+<p>Se tudo correu bem, já deves conseguir ver a imagem!</p>
+<p>Mas, afinal, como funciona o elemento <code>IMG</code>? Já deves ter reparado que é um elemento vazio, pois a sua etiqueta termina em <code>/&gt;</code>. A parte interessante são os seus atributos:</p>
+<ul>
+<li><strong><code>src</code></strong> – O nome é uma abreviatura de <em>source</em>, ou seja, fonte. O seu valor, que foi onde colocaste o endereço da imagem, indica onde a imagem pode ser encontrada.</li>
+<li><strong><code>alt</code></strong> – O nome é uma abreviatura de <em>alternate text</em> ou texto alternativo. O seu valor, que neste caso é <code>&quot;Retrato dos Nanonautas&quot;</code>, é um texto que explica o que a imagem é. Lembras-te quando olhaste para a página <code>sobre-nos.html</code> antes de corrigir o endereço da imagem? Este texto surgia na página. Quando corrigiste o endereço, este texto deixou de se ver. O texto alternativo é usado sempre que não seja possível ver a imagem. O caso mais importante de utilização é quando quem está a navegar pelas nossas páginas é invisual. Os invisuais navegam na web com recurso a <em>software</em> que lhes lê o conteúdo das páginas. Sem esse texto alternativo, um invisual poderia saber que a página tem uma imagem, mas não poderia saber o que a imagem representa. É fundamental fazermos as nossas páginas acessíveis por todos!</li>
+</ul>
+<h2 id="mais-uma-página">Mais uma página</h2>
+<p>Para completarmos esta lição, vamos adicionar mais uma página. Adiciona mais um arquivo ao teu projecto chamado <code>as-nossas-cancoes.html</code>. Se não te lembrares como se cria um arquivo, volta um pouco a trás nesta lição. Agora, coloca o seguinte conteúdo nesse arquivo:</p>
+
+
+
+
+<div class="code-annotated numbered"><code>
+&lt;!DOCTYPE html&gt;
+
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta charset=&#34;UTF-8&#34;&gt;
+    &lt;title&gt;As Nossas Canções&lt;/title&gt;
+    &lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;css/minha-folha-de-estilo.css&#34;/&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;As Nossas Canções&lt;/h1&gt;
+    &lt;p&gt;Eis uma lista das canções que sabemos tocar:&lt;/p&gt;
+    <span class='highlight'>&lt;ul&gt;</span>
+      <span class='highlight'>&lt;li&gt;Magical Mystery Bug&lt;/li&gt;</span>
+      &lt;li&gt;Boot It&lt;/li&gt;
+      &lt;li&gt;The Long and Winding Code&lt;/li&gt;
+      &lt;li&gt;Dojo Dancing&lt;/li&gt;
+      &lt;li&gt;Empty Elements&lt;/li&gt;
+      &lt;li&gt;Java Chameleon&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</code></div>
+
+<ol>
+<li>O elemento <code>UL</code> serve para criares uma lista. O nome <code>UL</code> vem de <em>unordered list</em>, ou seja, uma lista de itens sem número de ordem, em que cada item é marcado por uma bola. Dá uma olhada na página. Vês as bolas? Experimenta agora usar <code>&lt;ol&gt;</code> e <code>&lt;/ol&gt;</code> em vez de <code>&lt;ul&gt;</code> e <code>&lt;/ul&gt;</code>. Vês a diferença? Pois. O nome <code>OL</code> vem de <em>ordered list</em>, ou lista ordenada. Por isso as bolas foram substituídas por números. E quanto ao conteúdo deste elemento? Ele é constituído por uma lista de itens, cada um dos quais especificado através de um elemento <code>LI</code>:</li>
+<li>O elemento <code>LI</code> representa cada um dos itens da lista. O seu nome significa <em>list item</em>, ou seja, item de lista. O conteúdo de cada um destes elementos é o texto (e outras coisas) que deve constar como item da lista.</li>
+</ol>
+<p>Dá uma nova olhada na nova página, no painel direito. Parece-te bem? Perfeito! Agora falta adicionarmos as página em falta, incluindo uma página muito importante, que é a página de início. Sem ela, ao chegares ao teu sítio web só verias uma feia lista de páginas, não é? Vamos resolver este problema na próxima lição.</p>
+<aside aria-label="note" class="note">
+  <div>
+    <svg class="sign" aria-hidden="true" viewBox="0 0 41.667306 41.66729" focusable="false">
+      <use xlink:href="#info"></use>
+    </svg>
+    
+Confirma que o teu sítio web, e todas as suas páginas, se assemelham a <a href="https://nanonautas-p16.glitch.me" target=_blank>este projecto</a>. Se algo falhar, compara o teu projecto com o que podes encontrar <a href="https://glitch.com/~nanonautas-p16" target=_blank>aqui</a> e depois clica em «View Source».
+
+  </div>
+</aside>
+
 
   </main>
   <div id="disqus-container">
