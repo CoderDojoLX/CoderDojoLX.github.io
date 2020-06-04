@@ -42,41 +42,43 @@ Introdução Livro Neste percurso de aprendizagem vamos seguir o excelente livro
     </item>
     
     <item>
-      <title>Sessão #259</title>
-      <link>https://www.coderdojo-lx.pt/session-259/</link>
-      <pubDate>Sun, 31 May 2020 17:20:00 +0100</pubDate>
-      
-      <guid>https://www.coderdojo-lx.pt/session-259/</guid>
-      <description>Recursos:
- Apresentação  [Projecto de arranque no Glitch]  </description>
-    </item>
-    
-    <item>
-      <title>Sessão #261</title>
-      <link>https://www.coderdojo-lx.pt/session-261/</link>
-      <pubDate>Sun, 31 May 2020 17:20:00 +0100</pubDate>
-      
-      <guid>https://www.coderdojo-lx.pt/session-261/</guid>
-      <description>Recursos:
- Apresentação  [Projecto de arranque no Glitch]  </description>
-    </item>
-    
-    <item>
       <title>Sessões</title>
       <link>https://www.coderdojo-lx.pt/sessions/</link>
       <pubDate>Sun, 31 May 2020 17:20:00 +0100</pubDate>
       
       <guid>https://www.coderdojo-lx.pt/sessions/</guid>
-      <description> 2020:  Maio:  2020-05-23: #259 – HTML/CSS: Programação web #1  2020-05-23: #258 – p5.js@Glitch: Programação Criativa #3 2020-05-20: Code Kata #2 2020-05-16: #257 – Scratch: Programação Visual #1 2020-05-16: #256 – p5.js@Glitch: Programação Criativa #3 2020-05-13: Code Kata #1      </description>
+      <description>2020 Maio  table th:first-of-type { width: 18%; } table th:nth-of-type(2) { width: 10%; } table th:nth-of-type(3) { width: 13%; } table th:nth-of-type(4) { width: 60%; }     Data Hora Sessão Tema      2020-05-09 14:30 #254 p5.js@Glitch: Programação Criativa #2   2020-05-09 16:30 #255 Minecraft: Hora do Código e DojoCraft   2020-05-09 14:30 #254 p5.js@Glitch: Programação Criativa #2   2020-05-09 16:30 #255 Minecraft: Hora do Código e DojoCraft   2020-05-13 18:00 Code Kata #1     2020-05-16 14:30 #256 p5.</description>
     </item>
     
     <item>
       <title>CoderDojo LX #260 - Mural!</title>
-      <link>https://www.coderdojo-lx.pt/sessao-260/</link>
+      <link>https://www.coderdojo-lx.pt/session-260/</link>
       <pubDate>Sat, 30 May 2020 17:10:47 +0100</pubDate>
       
-      <guid>https://www.coderdojo-lx.pt/sessao-260/</guid>
+      <guid>https://www.coderdojo-lx.pt/session-260/</guid>
       <description>A sessão do CoderDojo LX #260 ocorreu no dia 30/05 e foi um grande sucesso. O mentor Paulo criou um mural de projetos p5 disponivel aqui.</description>
+    </item>
+    
+    <item>
+      <title>Sessão #261 – HTML/CSS: Programação web #2</title>
+      <link>https://www.coderdojo-lx.pt/session-261/</link>
+      <pubDate>Sat, 30 May 2020 16:30:00 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/session-261/</guid>
+      <description>Sessão dedicada à Programação web. Corresponde à lição Página de início e muito mais CSS do percurso de aprendizagem Programação web com HTML/CSS .
+Recursos:
+ Criar com Código: Constrói o teu Sítio Web , de Clyde Hatter – Livro base da sessão, editado pela Planeta. CoderDojo Nano  – Página web de apoio ao livro. Apresentação da sessão  – A apresentação usada nesta sessão. nanonautas-sessao2  – Projecto para começar a sessão.</description>
+    </item>
+    
+    <item>
+      <title>CoderDojo LX #259 – HTML/CSS: Programação web #1</title>
+      <link>https://www.coderdojo-lx.pt/session-259/</link>
+      <pubDate>Sat, 23 May 2020 16:30:00 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/session-259/</guid>
+      <description>Sessão dedicada à Programação web. Corresponde à lição Introdução à Web, ao HTML e ao CSS do percurso de aprendizagem Programação web com HTML/CSS .
+Recursos:
+ Criar com Código: Constrói o teu Sítio Web , de Clyde Hatter – Livro base da sessão, editado pela Planeta. CoderDojo Nano  – Página web de apoio ao livro. Apresentação da sessão  – A apresentação usada nesta sessão. nanonautas-começa-aqui  – Projecto para começar a sessão.</description>
     </item>
     
     <item>
@@ -115,8 +117,8 @@ E se quisermos adicionar mais bolas? Pergunte aos ninjas com poderiam adicionar 
       
       <guid>https://www.coderdojo-lx.pt/contact/</guid>
       <description>Envia as tuas mensagens dúvidas, questões, sugestões, o que for, para lisbon.prt@coderdojo.com .
-Estamos também no Facebook , no Twitter e no Instagram .
-Também podes conversar connosco no Slack. Inscreve-te aqui. </description>
+Estamos também:
+ Facebook  Twitter  Instagram  YouTube  LinkedIn  GitHub  Glitch   Também podes conversar connosco no Slack. Inscreve-te aqui. </description>
     </item>
     
     <item>
@@ -126,8 +128,8 @@ Também podes conversar connosco no Slack. Inscreve-te aqui. </description>
       
       <guid>https://www.coderdojo-lx.pt/about-cd/</guid>
       <description>Uma só regra…Sê Fixe!
-O Compromisso CoderDojo  Aprendizagem Aberta, Livre e Gratuita!
- Os Princípios do CoderDojo  O nosso contexto é a aprendizagem aberta, livre, gratuita e dirigida pelos jovens. Aderimos ao código aberto. A segurança dos jovens sobrepõe-se a tudo, excepto ao senso comum. A participação é sempre gratuita. Brincar e criar dirigem a nossa aprendizagem; partilhamos o que aprendemos. Aquilo que funciona num CoderDojo particular é partilhado, e não imposto.</description>
+Compromisso CoderDojo  Aprendizagem Aberta, Livre e Gratuita!
+ Princípios do CoderDojo  O nosso contexto é a aprendizagem aberta, livre, gratuita e dirigida pelos jovens. Aderimos ao código aberto. A segurança dos jovens sobrepõe-se a tudo, excepto ao senso comum. A participação é sempre gratuita. Brincar e criar dirigem a nossa aprendizagem; partilhamos o que aprendemos. Aquilo que funciona num CoderDojo particular é partilhado, e não imposto.</description>
     </item>
     
     <item>
@@ -148,7 +150,7 @@ O Compromisso CoderDojo  Aprendizagem Aberta, Livre e Gratuita!
       <guid>https://www.coderdojo-lx.pt/about/</guid>
       <description>O CoderDojo LX é uma organização informal cujo objectivo é dar aos jovens dos 7 aos 17 anos a oportunidade de aprenderem a programar e sobre tecnologias relacionadas com a programação de forma divertida, aberta e gratuita.
 Temos uma só regra…Sê Fixe!
-Os nosso princípios Acede a este link para saberes mais sobre o CoderDojo global Quem somos? Mentores Os mentores podem ser um adulto que participa nas sessões apoiando os ninjas ou um ninja que se destacou, passando a apoiar outros ninjas durante as nossas sessões.</description>
+Os nosso princípios Sabe mais sobre o CoderDojo global Quem somos? Mentores Os mentores podem ser um adulto que participa nas sessões apoiando os ninjas ou um ninja que se destacou, passando a apoiar outros ninjas durante as nossas sessões.</description>
     </item>
     
     <item>
