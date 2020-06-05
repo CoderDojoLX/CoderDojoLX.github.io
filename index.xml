@@ -47,7 +47,7 @@ Introdução Livro Neste percurso de aprendizagem vamos seguir o excelente livro
       <pubDate>Sun, 31 May 2020 17:20:00 +0100</pubDate>
       
       <guid>https://www.coderdojo-lx.pt/sessions/</guid>
-      <description>2020 Maio  table { /* width: 750px;*/ font-size: 12pt; } table td, table th { /* white-space: nowrap;*/ padding: 1px; } table th:first-of-type { width: 18%; } table th:nth-of-type(2) { width: 10%; } table th:nth-of-type(3) { width: 13%; } table th:nth-of-type(4) { width: 60%; }     Data Hora Sessão Tema      2020-05-09 14:30 #254 p5.js@Glitch: Programação Criativa #2   2020-05-09 16:30 #255 Minecraft: Hora do Código e DojoCraft   2020-05-09 14:30 #254 p5.</description>
+      <description>2020 Maio  @media (max-width: 1000px) { table { /* width: 750px;*/ font-size: 10pt; } } @media (max-width: 500px) { table { /* width: 750px;*/ font-size: 8pt; } } table td, table th { /* white-space: nowrap;*/ padding: 1px; } table th:first-of-type { width: 18%; } table th:nth-of-type(2) { width: 10%; } table th:nth-of-type(3) { width: 13%; } table th:nth-of-type(4) { width: 60%; }     Data Hora Sessão Tema      2020-05-09 14:30 #254 p5.</description>
     </item>
     
     <item>
