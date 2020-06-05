@@ -13,20 +13,21 @@
     
     <item>
       <title>A minha primeira sessão: Minecraft</title>
-      <link>https://www.coderdojo-lx.pt/primeira-minecraft/</link>
+      <link>https://www.coderdojo-lx.pt/first-minecraft/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.coderdojo-lx.pt/primeira-minecraft/</guid>
+      <guid>https://www.coderdojo-lx.pt/first-minecraft/</guid>
       <description>Página em construção</description>
     </item>
     
     <item>
       <title>A minha primeira sessão: Scratch</title>
-      <link>https://www.coderdojo-lx.pt/primeira-scratch/</link>
+      <link>https://www.coderdojo-lx.pt/first-scratch/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.coderdojo-lx.pt/primeira-scratch/</guid>
-      <description>Assegura-te de que tens disponível um portátil para levares contigo, se for uma sessão presencial, ou um computador para trabalhares, se for uma sessão remota. Nesse portátil ou computador instala o Chrome , de preferência. Se necessário instala o Firefox ou o Edge . Vai ao sítio web do Scratch e adere ao serviço. Assegura-te, na base da página do Scratch, de que estás a usar a versão em português de Portugal.</description>
+      <guid>https://www.coderdojo-lx.pt/first-scratch/</guid>
+      <description>Vais a uma sessão sobre Scratch? Vê o que precisas e como te preparar.
+   O Scratch é uma linguagem de programação visual baseada em blocos e uma comunidade em linha com os quais podes programar e partilhar as tuas próprias estórias interactivas, jogos e animações.   O que precisas Sessão presencial  Um computador portátil para levares O Chrome, o Firefox ou o Edge (actualizados) Uma conta no Stratch A aplicação Scratch instalada   Sessão remota  Um computador ligado à rede para trabalhares Um microfone (o microfone do computador dá perfeitamente) Uma webcam (opcional) O Chrome, o Firefox ou o Edge (actualizados) Uma conta no Scratch A aplicação Scratch instalada   Instruções  Vai ao sítio web do Scratch e adere ao serviço.</description>
     </item>
     
     <item>
@@ -41,12 +42,12 @@
     
     <item>
       <title>A minha primeira sessão: p5.js</title>
-      <link>https://www.coderdojo-lx.pt/primeira-p5/</link>
+      <link>https://www.coderdojo-lx.pt/first-p5/</link>
       <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
       
-      <guid>https://www.coderdojo-lx.pt/primeira-p5/</guid>
-      <description>O que precisas  O navegador Chrome ou Firefox (actualizado) Um microfone (o microfone do computador dá perfeitamente) Webcam (opcional) Uma conta no Glitch (ver vídeo em baixo)    O Glitch é uma plataforma de programação colaborativa parecida com o Scratch, mas para programação em JavaScript.
- Instruções  Segue este tutorial de video para criares uma conta na plataforma Glitch.     Se tiveres menos de 13 anos, introduz o endereço de correio electrónico de um encarregado de educação.</description>
+      <guid>https://www.coderdojo-lx.pt/first-p5/</guid>
+      <description>Vais a uma sessão sobre p5.js? Vê o que precisas e como te preparar.
+O que precisas  Um computador ligado à rede para trabalhares Um microfone (o microfone do computador dá perfeitamente) Uma webcam (opcional) O navegador Chrome ou Firefox (actualizado) Uma conta no Glitch (ver tutorial em baixo)      O Glitch é uma plataforma de programação colaborativa parecida com a do Scratch, mas para programação web, com suporte para JavaScript, HTML, CSS, etc.</description>
     </item>
     
   </channel>
