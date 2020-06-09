@@ -26,8 +26,23 @@ Recursos  Sessão #259 (HTML/CSS #1)  – Sessão do CoderDojo LX correspondente
       <pubDate>Tue, 02 Jun 2020 18:00:08 +0100</pubDate>
       
       <guid>https://www.coderdojo-lx.pt/html-css2/</guid>
-      <description>Nesta lição do percurso de aprendizagem Programação web com HTML/CSS vamos aprender a criar uma página de início e vamos ver o CSS mais a fundo..
+      <description>Nesta lição do percurso de aprendizagem Programação web com HTML/CSS vamos aprender a criar uma página de início e vamos ver o CSS mais a fundo.
 Recursos  Sessão #261 (HTML/CSS #2)  – Sessão do CoderDojo LX correspondente a esta secção. Apresentação da sessão #261 (HTML/CSS #2)  – A apresentação usada nessa sessão. nanonautas-sessao2  – Projecto com que podes começar esta lição. Também podes começar onde terminaste a ligação anterior.</description>
+    </item>
+    
+    <item>
+      <title>Página de início e muito mais CSS</title>
+      <link>https://www.coderdojo-lx.pt/html-css3/</link>
+      <pubDate>Tue, 02 Jun 2020 18:00:08 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/html-css3/</guid>
+      <description>!!!!!!!!!!Criar título!
+CSS: Cores e medidas Navegação CSS: selectores com descendentes e ascendentes, classes
+Conteúdos:
+cores, selectores de cor, cores em hexadecimal, experiências em h1. hexadecimal
+medidas: px, em e %
+Absolutas: cm centimeters mm millimeters in inches (1in = 96px = 2.54cm) px * pixels (1px = 1/96th of 1in) pt points (1pt = 1/72 of 1in) pc picas (1pc = 12 pt)
+Relativas: em Relative to the font-size of the element (2em means 2 times the size of the current font) ex Relative to the x-height of the current font (rarely used)</description>
     </item>
     
     <item>
