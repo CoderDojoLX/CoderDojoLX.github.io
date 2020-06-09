@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sessions on CoderDojo LX</title>
+    <link>https://www.coderdojo-lx.pt/sessions/</link>
+    <description>Recent content in Sessions on CoderDojo LX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Sat, 30 May 2020 16:30:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.coderdojo-lx.pt/sessions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sessão #261 – HTML/CSS: Programação web #2</title>
+      <link>https://www.coderdojo-lx.pt/sessions/session-261/</link>
+      <pubDate>Sat, 30 May 2020 16:30:00 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/sessions/session-261/</guid>
+      <description>Inscrição: Eventbrite Sessão anterior: HTML/CSS: Programação web #1 Sessão seguinte: HTML/CSS: Programação web #3  Página de início e muito mais CSS Sessão dedicada à Programação web. Corresponde à lição Página de início e muito mais CSSdo percurso de aprendizagem Programação web com HTML/CSS.
+Objectivos Os ninjas no final da sessão deverão:
+ Compreender a estrutura de um sítio web (organização de pastas e ficheiros) Ser capazes de construir correctamente um sítio web simples com várias páginas, incluindo a com página inicial Ser capazes de fazer hiperligações a outras página do mesmo sítio ou a páginas web externas Criar uma folha de estilo com regras simples, selectores simples e algumas das propriedades básicas Ser capazes de usar uma ferramenta de desenvolvimento como o Glitch para desenvolverem incrementalmente um sítio web  Recursos  Criar com Código: Constrói o teu Sítio Web, de Clyde Hatter – Livro base da sessão, editado pela Planeta.</description>
+    </item>
+    
+    <item>
+      <title>Sessão #263 – HTML/CSS: Programação web #3</title>
+      <link>https://www.coderdojo-lx.pt/sessions/session-263/</link>
+      <pubDate>Sat, 30 May 2020 16:30:00 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/sessions/session-263/</guid>
+      <description>Inscrição: Eventbrite Sessão anterior: HTML/CSS: Programação web #2  Lançamento de projectos pessoais Sessão dedicada à Programação web. Faz parte do percurso de aprendizagem Programação web com HTML/CSS.
+Objectivos  Lançar o desafio de cada ninja criar o seu próprio sítio web. Mostrar alguns recursos que os podem ajudar. Discutir ideias de possíveis sítios web. Apoiar os ninjas nos primeiros passos dos seus projectos.  Recursos  Programação web com HTML/CSS (CoderDojo LX)– Percurso de aprendizagem HTML: Hypertext Markup Language (MDN)– Referência e tutoriais sobre HTML CSS: Cascading Style Sheets (MDN)– Referência e tutoriais sobre CSS htmlreference.</description>
+    </item>
+    
+    <item>
+      <title>Sessão #260 - p5.js@Glitch: Programação Criativa #5</title>
+      <link>https://www.coderdojo-lx.pt/sessions/session-260/</link>
+      <pubDate>Sat, 30 May 2020 14:30:00 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/sessions/session-260/</guid>
+      <description>Inscrição: EventbriteA sessão do CoderDojo LX #260 que ocorreu no dia 30/05 foi um grande sucesso. Os ninjas desenvolveram projectos p5.js à sua escolha e o campeão Paulo Carvalho criou um mural para os mostrar. [Dá-lhe uma olhada!][https://cdlx260.glitch.me/]. A lista dos projectos dos ninjas (e também dos campeões!) está na colecção Exemplos do CoderDojo #260.</description>
+    </item>
+    
+    <item>
+      <title>CoderDojo LX #259 – HTML/CSS: Programação web #1</title>
+      <link>https://www.coderdojo-lx.pt/sessions/session-259/</link>
+      <pubDate>Sat, 23 May 2020 16:30:00 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/sessions/session-259/</guid>
+      <description>Inscrição: Eventbrite Sessão seguinte: HTML/CSS: Programação web #2  Introdução à Web, ao HTML e ao CSS Sessão dedicada à Programação web. Corresponde à lição Introdução à Web, ao HTML e ao CSSdo percurso de aprendizagem Programação web com HTML/CSS.
+Objectivos Os ninjas no final da sessão deverão:
+ Compreender o que são: a Internet, a Web, páginas, sítios e endereços Ser capazes de construir correctamente uma página web simples Compreender o que é uma folha de estilo Ser capazes de ligar uma página web a uma folha de estilo Ser capazes de adicionar imagens a uma página web  Recursos  Criar com Código: Constrói o teu Sítio Web, de Clyde Hatter – Livro base da sessão, editado pela Planeta.</description>
+    </item>
+    
+  </channel>
+</rss>
