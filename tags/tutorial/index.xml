@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>p5 on CoderDojo LX</title>
-    <link>https://www.coderdojo-lx.pt/tags/p5/</link>
-    <description>Recent content in p5 on CoderDojo LX</description>
+    <title>tutorial on CoderDojo LX</title>
+    <link>https://www.coderdojo-lx.pt/tags/tutorial/</link>
+    <description>Recent content in tutorial on CoderDojo LX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     <lastBuildDate>Wed, 10 Jun 2020 09:46:26 +0100</lastBuildDate>
     
-	<atom:link href="https://www.coderdojo-lx.pt/tags/p5/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.coderdojo-lx.pt/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,17 +20,6 @@
       <description>Este tutorial ajuda-te a começar os teus projetos p5 no teu computador sem necessidade de recorrer a serviços como o Glitch. É muito útil para quando não tiveres Internet ou quiseres optar pela rapidez de correr tudo na tua máquina!
  Instalar o VS Code ou Atom   Precisas de um editor de texto para poderes programar.
  Instalar o node.js   Instalar o p5-manager   Entrar numa diretoria à tua escolha usando cd no terminal</description>
-    </item>
-    
-    <item>
-      <title>Sessão 3: p5.js@Glitch</title>
-      <link>https://www.coderdojo-lx.pt/2020/05/p5-3/</link>
-      <pubDate>Sat, 16 May 2020 13:22:08 +0100</pubDate>
-      
-      <guid>https://www.coderdojo-lx.pt/2020/05/p5-3/</guid>
-      <description>Guia para mentores e interessados para a Sessão #3 de p5.js (programação criativa).
- Código de demonstração (guia) para a sessão     Já te certificaste que tens permissão para editar os ficheiros de todos os ninjas?   Recapitular o progresso Relembrar que na última sessão conseguimos recriar o «bouncing ball». Código de demonstração disponível aqui .
-E se quisermos adicionar mais bolas? Pergunte aos ninjas com poderiam adicionar mais bolas.</description>
     </item>
     
   </channel>

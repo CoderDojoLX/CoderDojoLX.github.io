@@ -12,13 +12,51 @@
     
     
     <item>
+      <title>Sessão #265 – HTML/CSS: Programação web #4</title>
+      <link>https://www.coderdojo-lx.pt/session-265/</link>
+      <pubDate>Fri, 19 Jun 2020 16:30:00 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/session-265/</guid>
+      <description>Inscrição: Eventbrite Sessão anterior: HTML/CSS: Programação web #3   Navegação, cores, medidas e mais selectores Sessão dedicada à Programação web. Corresponde à lição Navegação, cores, medidas e mais selectores do percurso de aprendizagem Programação web com HTML/CSS .
+Objectivos Os ninjas no final da sessão deverão:
+ Compreender a necessidade de criar uma forma consistente de navegar no sítio web Compreender o essencial da numeração hexadecimal Conhecer as unidades de medida mais comuns em CSS Criar folhas de estilo declarando cores de diferentes formas Ser capazes de construir correctamente um sítio web simples com navegação uniforme entre as várias páginas Criar uma folha de estilo com selectores usando ascendentes e descendentes   Recursos  Criar com Código: Constrói o teu Sítio Web , de Clyde Hatter – Livro base da sessão, editado pela Planeta.</description>
+    </item>
+    
+    <item>
+      <title>Como instalar o p5 no teu ambiente local</title>
+      <link>https://www.coderdojo-lx.pt/2020/06/p5-local-install/</link>
+      <pubDate>Wed, 10 Jun 2020 09:46:26 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/2020/06/p5-local-install/</guid>
+      <description>Este tutorial ajuda-te a começar os teus projetos p5 no teu computador sem necessidade de recorrer a serviços como o Glitch. É muito útil para quando não tiveres Internet ou quiseres optar pela rapidez de correr tudo na tua máquina!
+ Instalar o VS Code ou Atom   Precisas de um editor de texto para poderes programar.
+ Instalar o node.js   Instalar o p5-manager   Entrar numa diretoria à tua escolha usando cd no terminal</description>
+    </item>
+    
+    <item>
       <title>Introdução à Web, ao HTML e ao CSS</title>
       <link>https://www.coderdojo-lx.pt/2020/06/html-css1/</link>
       <pubDate>Tue, 02 Jun 2020 18:00:08 +0100</pubDate>
       
       <guid>https://www.coderdojo-lx.pt/2020/06/html-css1/</guid>
-      <description>Nesta lição do percurso de aprendizagem Programação web com HTML/CSSvamos ver o que é a web, o que são sítios e páginas web, e como podemos programar para a web usando o HTML e o CSS.
-Recursos  Sessão #259 (HTML/CSS #1) – Sessão do CoderDojo LX correspondente a esta secção. Apresentação da sessão #259 (HTML/CSS #1) – A apresentação usada nessa sessão. nanonautas-começa-aqui – Projecto com que deves começar esta lição.</description>
+      <description>Nesta lição do percurso de aprendizagem Programação web com HTML/CSS vamos ver o que é a web, o que são sítios e páginas web, e como podemos programar para a web usando o HTML e o CSS.
+Recursos  Sessão #259 (HTML/CSS #1)  – Sessão do CoderDojo LX correspondente a esta secção. Apresentação da sessão #259 (HTML/CSS #1)  – A apresentação usada nessa sessão. nanonautas-começa-aqui  – Projecto com que deves começar esta lição.</description>
+    </item>
+    
+    <item>
+      <title>Navegação, cores, medidas e mais selectores</title>
+      <link>https://www.coderdojo-lx.pt/2020/06/html-css3/</link>
+      <pubDate>Tue, 02 Jun 2020 18:00:08 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/2020/06/html-css3/</guid>
+      <description>Atenção! Esta página ainda está em desenvolvimento!   Páginas 30 a 41 do livro
+Exemplos 34, 35, 41=35+NAV EM TODAS e 43.
+CSS: Cores e medidas Navegação CSS: selectores com descendentes e ascendentes, classes
+Conteúdos:
+cores, selectores de cor, cores em hexadecimal, experiências em h1. hexadecimal
+medidas: px, em e %
+Navegação
+ Código HTML CSS: selectores mais complexos  Nesta lição do percurso de aprendizagem Programação web com HTML/CSS vamos aprender a criar uma barra de navegação para o nosso sítio web e vamos aprender um pouco mais sobre folhas de estilo em CSS, incluindo como usar cores nas declarações, que unidades de medida se podem usar e como usar selectores mais sofisticados.</description>
     </item>
     
     <item>
@@ -27,23 +65,8 @@ Recursos  Sessão #259 (HTML/CSS #1) – Sessão do CoderDojo LX correspondente
       <pubDate>Tue, 02 Jun 2020 18:00:08 +0100</pubDate>
       
       <guid>https://www.coderdojo-lx.pt/2020/06/html-css2/</guid>
-      <description>Nesta lição do percurso de aprendizagem Programação web com HTML/CSSvamos aprender a criar uma página de início e vamos ver o CSS mais a fundo.
-Recursos  Sessão #261 (HTML/CSS #2) – Sessão do CoderDojo LX correspondente a esta secção. Apresentação da sessão #261 (HTML/CSS #2) – A apresentação usada nessa sessão. nanonautas-sessao2 – Projecto com que podes começar esta lição. Também podes começar onde terminaste a ligação anterior.</description>
-    </item>
-    
-    <item>
-      <title>Página de início e muito mais CSS</title>
-      <link>https://www.coderdojo-lx.pt/2020/06/html-css3/</link>
-      <pubDate>Tue, 02 Jun 2020 18:00:08 +0100</pubDate>
-      
-      <guid>https://www.coderdojo-lx.pt/2020/06/html-css3/</guid>
-      <description>!!!!!!!!!!Criar título!
-CSS: Cores e medidas Navegação CSS: selectores com descendentes e ascendentes, classes
-Conteúdos:
-cores, selectores de cor, cores em hexadecimal, experiências em h1. hexadecimal
-medidas: px, em e %
-Absolutas: cm centimeters mm millimeters in inches (1in = 96px = 2.54cm) px * pixels (1px = 1/96th of 1in) pt points (1pt = 1/72 of 1in) pc picas (1pc = 12 pt)
-Relativas: em Relative to the font-size of the element (2em means 2 times the size of the current font) ex Relative to the x-height of the current font (rarely used)</description>
+      <description>Nesta lição do percurso de aprendizagem Programação web com HTML/CSS vamos aprender a criar uma página de início e vamos ver o CSS mais a fundo.
+Recursos  Sessão #261 (HTML/CSS #2)  – Sessão do CoderDojo LX correspondente a esta secção. Apresentação da sessão #261 (HTML/CSS #2)  – A apresentação usada nessa sessão. nanonautas-sessao2  – Projecto com que podes começar esta lição. Também podes começar onde terminaste a lição anterior.</description>
     </item>
     
     <item>
@@ -53,7 +76,7 @@ Relativas: em Relative to the font-size of the element (2em means 2 times the si
       
       <guid>https://www.coderdojo-lx.pt/2020/05/html-css/</guid>
       <description>Vamos programar para a web com o HTML/CSS! Constrói o teu próprio sítio web aprendendo HTML/CSS à medida que constróis o sítio web dos Nanonautas!
-Introdução Livro Neste percurso de aprendizagem vamos seguir o excelente livro Criar com Código: Constrói o teu Sítio Web, de Clyde Hatter, editado pela Planeta. O livro pertence à colecção CoderDojo Nano que é promovida pela Fundação CoderDojo. Não deixes de ver a página web de apoio ao livro.</description>
+Introdução Livro Neste percurso de aprendizagem vamos seguir o excelente livro Criar com Código: Constrói o teu Sítio Web , de Clyde Hatter, editado pela Planeta. O livro pertence à colecção CoderDojo Nano que é promovida pela Fundação CoderDojo. Não deixes de ver a página web de apoio ao livro .</description>
     </item>
     
     <item>
@@ -62,48 +85,38 @@ Introdução Livro Neste percurso de aprendizagem vamos seguir o excelente livro
       <pubDate>Sun, 31 May 2020 17:20:00 +0100</pubDate>
       
       <guid>https://www.coderdojo-lx.pt/list/</guid>
-      <description>2020 Maio @media (max-width: 1000px) {table {/* width: 750px;*/font-size: 10pt;}}@media (max-width: 500px) {table {/* width: 750px;*/font-size: 8pt;}}table td, table th {/* white-space: nowrap;*/padding: 1px;}table th:first-of-type {width: 18%;}table th:nth-of-type(2) {width: 10%;}table th:nth-of-type(3) {width: 13%;}table th:nth-of-type(4) {width: 60%;}   Data Hora Sessão Tema      2020-05-09 14:30 #254 p5.</description>
+      <description>2020 Maio  @media (max-width: 1000px) { table { /* width: 750px;*/ font-size: 10pt; } } @media (max-width: 500px) { table { /* width: 750px;*/ font-size: 8pt; } } table td, table th { /* white-space: nowrap;*/ padding: 1px; } table th:first-of-type { width: 18%; } table th:nth-of-type(2) { width: 10%; } table th:nth-of-type(3) { width: 13%; } table th:nth-of-type(4) { width: 60%; }     Data Hora Sessão Tema      2020-05-09 14:30 #254 p5.</description>
     </item>
     
     <item>
       <title>Sessão #261 – HTML/CSS: Programação web #2</title>
-      <link>https://www.coderdojo-lx.pt/sessions/session-261/</link>
+      <link>https://www.coderdojo-lx.pt/session-261/</link>
       <pubDate>Sat, 30 May 2020 16:30:00 +0100</pubDate>
       
-      <guid>https://www.coderdojo-lx.pt/sessions/session-261/</guid>
-      <description>Inscrição: Eventbrite Sessão anterior: HTML/CSS: Programação web #1 Sessão seguinte: HTML/CSS: Programação web #3  Página de início e muito mais CSS Sessão dedicada à Programação web. Corresponde à lição Página de início e muito mais CSSdo percurso de aprendizagem Programação web com HTML/CSS.
+      <guid>https://www.coderdojo-lx.pt/session-261/</guid>
+      <description>Inscrição: Eventbrite Sessão anterior: HTML/CSS: Programação web #1 Sessão seguinte: HTML/CSS: Programação web #3   Página de início e muito mais CSS Sessão dedicada à Programação web. Corresponde à lição Página de início e muito mais CSS do percurso de aprendizagem Programação web com HTML/CSS .
 Objectivos Os ninjas no final da sessão deverão:
- Compreender a estrutura de um sítio web (organização de pastas e ficheiros) Ser capazes de construir correctamente um sítio web simples com várias páginas, incluindo a com página inicial Ser capazes de fazer hiperligações a outras página do mesmo sítio ou a páginas web externas Criar uma folha de estilo com regras simples, selectores simples e algumas das propriedades básicas Ser capazes de usar uma ferramenta de desenvolvimento como o Glitch para desenvolverem incrementalmente um sítio web  Recursos  Criar com Código: Constrói o teu Sítio Web, de Clyde Hatter – Livro base da sessão, editado pela Planeta.</description>
-    </item>
-    
-    <item>
-      <title>Sessão #263 – HTML/CSS: Programação web #3</title>
-      <link>https://www.coderdojo-lx.pt/sessions/session-263/</link>
-      <pubDate>Sat, 30 May 2020 16:30:00 +0100</pubDate>
-      
-      <guid>https://www.coderdojo-lx.pt/sessions/session-263/</guid>
-      <description>Inscrição: Eventbrite Sessão anterior: HTML/CSS: Programação web #2  Lançamento de projectos pessoais Sessão dedicada à Programação web. Faz parte do percurso de aprendizagem Programação web com HTML/CSS.
-Objectivos  Lançar o desafio de cada ninja criar o seu próprio sítio web. Mostrar alguns recursos que os podem ajudar. Discutir ideias de possíveis sítios web. Apoiar os ninjas nos primeiros passos dos seus projectos.  Recursos  Programação web com HTML/CSS (CoderDojo LX)– Percurso de aprendizagem HTML: Hypertext Markup Language (MDN)– Referência e tutoriais sobre HTML CSS: Cascading Style Sheets (MDN)– Referência e tutoriais sobre CSS htmlreference.</description>
+ Compreender a estrutura de um sítio web (organização de pastas e ficheiros) Ser capazes de construir correctamente um sítio web simples com várias páginas, incluindo a com página inicial Ser capazes de fazer hiperligações a outras página do mesmo sítio ou a páginas web externas Criar uma folha de estilo com regras simples, selectores simples e algumas das propriedades básicas Ser capazes de usar uma ferramenta de desenvolvimento como o Glitch para desenvolverem incrementalmente um sítio web   Recursos  Criar com Código: Constrói o teu Sítio Web , de Clyde Hatter – Livro base da sessão, editado pela Planeta.</description>
     </item>
     
     <item>
       <title>Sessão #260 - p5.js@Glitch: Programação Criativa #5</title>
-      <link>https://www.coderdojo-lx.pt/sessions/session-260/</link>
+      <link>https://www.coderdojo-lx.pt/session-260/</link>
       <pubDate>Sat, 30 May 2020 14:30:00 +0100</pubDate>
       
-      <guid>https://www.coderdojo-lx.pt/sessions/session-260/</guid>
-      <description>Inscrição: EventbriteA sessão do CoderDojo LX #260 que ocorreu no dia 30/05 foi um grande sucesso. Os ninjas desenvolveram projectos p5.js à sua escolha e o campeão Paulo Carvalho criou um mural para os mostrar. [Dá-lhe uma olhada!][https://cdlx260.glitch.me/]. A lista dos projectos dos ninjas (e também dos campeões!) está na colecção Exemplos do CoderDojo #260.</description>
+      <guid>https://www.coderdojo-lx.pt/session-260/</guid>
+      <description>Inscrição: Eventbrite A sessão do CoderDojo LX #260 que ocorreu no dia 30/05 foi um grande sucesso. Os ninjas desenvolveram projectos p5.js à sua escolha e o campeão Paulo Carvalho criou um mural para os mostrar. [Dá-lhe uma olhada!][https://cdlx260.glitch.me/]. A lista dos projectos dos ninjas (e também dos campeões!) está na colecção Exemplos do CoderDojo #260 .</description>
     </item>
     
     <item>
       <title>CoderDojo LX #259 – HTML/CSS: Programação web #1</title>
-      <link>https://www.coderdojo-lx.pt/sessions/session-259/</link>
+      <link>https://www.coderdojo-lx.pt/session-259/</link>
       <pubDate>Sat, 23 May 2020 16:30:00 +0100</pubDate>
       
-      <guid>https://www.coderdojo-lx.pt/sessions/session-259/</guid>
-      <description>Inscrição: Eventbrite Sessão seguinte: HTML/CSS: Programação web #2  Introdução à Web, ao HTML e ao CSS Sessão dedicada à Programação web. Corresponde à lição Introdução à Web, ao HTML e ao CSSdo percurso de aprendizagem Programação web com HTML/CSS.
+      <guid>https://www.coderdojo-lx.pt/session-259/</guid>
+      <description>Inscrição: Eventbrite Sessão seguinte: HTML/CSS: Programação web #2   Introdução à Web, ao HTML e ao CSS Sessão dedicada à Programação web. Corresponde à lição Introdução à Web, ao HTML e ao CSS do percurso de aprendizagem Programação web com HTML/CSS .
 Objectivos Os ninjas no final da sessão deverão:
- Compreender o que são: a Internet, a Web, páginas, sítios e endereços Ser capazes de construir correctamente uma página web simples Compreender o que é uma folha de estilo Ser capazes de ligar uma página web a uma folha de estilo Ser capazes de adicionar imagens a uma página web  Recursos  Criar com Código: Constrói o teu Sítio Web, de Clyde Hatter – Livro base da sessão, editado pela Planeta.</description>
+ Compreender o que são: a Internet, a Web, páginas, sítios e endereços Ser capazes de construir correctamente uma página web simples Compreender o que é uma folha de estilo Ser capazes de ligar uma página web a uma folha de estilo Ser capazes de adicionar imagens a uma página web   Recursos  Criar com Código: Constrói o teu Sítio Web , de Clyde Hatter – Livro base da sessão, editado pela Planeta.</description>
     </item>
     
     <item>
@@ -122,7 +135,7 @@ Objectivos Os ninjas no final da sessão deverão:
       
       <guid>https://www.coderdojo-lx.pt/2020/05/p5-3/</guid>
       <description>Guia para mentores e interessados para a Sessão #3 de p5.js (programação criativa).
- Código de demonstração (guia) para a sessão Já te certificaste que tens permissão para editar os ficheiros de todos os ninjas?Recapitular o progresso Relembrar que na última sessão conseguimos recriar o «bouncing ball». Código de demonstração disponível aqui.
+ Código de demonstração (guia) para a sessão     Já te certificaste que tens permissão para editar os ficheiros de todos os ninjas?   Recapitular o progresso Relembrar que na última sessão conseguimos recriar o «bouncing ball». Código de demonstração disponível aqui .
 E se quisermos adicionar mais bolas? Pergunte aos ninjas com poderiam adicionar mais bolas.</description>
     </item>
     
@@ -133,7 +146,7 @@ E se quisermos adicionar mais bolas? Pergunte aos ninjas com poderiam adicionar 
       
       <guid>https://www.coderdojo-lx.pt/2020/05/first-scratch/</guid>
       <description>Vais a uma sessão sobre Scratch? Vê o que precisas e como te preparar.
-O Scratch é uma linguagem de programação visual baseada em blocos e uma comunidade em linha com os quais podes programar e partilhar as tuas próprias estórias interactivas, jogos e animações.O que precisas Sessão presencial  Um computador portátil para levares O Chrome, o Firefox ou o Edge (actualizados) Uma conta no Stratch A aplicação Scratch instalada  Sessão remota  Um computador ligado à rede para trabalhares Um microfone (o microfone do computador dá perfeitamente) Uma webcam (opcional) O Chrome, o Firefox ou o Edge (actualizados) Uma conta no Scratch A aplicação Scratch instalada  Instruções  Vai ao sítio web do Scratche adere ao serviço.</description>
+   O Scratch é uma linguagem de programação visual baseada em blocos e uma comunidade em linha com os quais podes programar e partilhar as tuas próprias estórias interactivas, jogos e animações.   O que precisas Sessão presencial  Um computador portátil para levares O Chrome, o Firefox ou o Edge (actualizados) Uma conta no Stratch A aplicação Scratch instalada   Sessão remota  Um computador ligado à rede para trabalhares Um microfone (o microfone do computador dá perfeitamente) Uma webcam (opcional) O Chrome, o Firefox ou o Edge (actualizados) Uma conta no Scratch A aplicação Scratch instalada   Instruções  Vai ao sítio web do Scratch e adere ao serviço.</description>
     </item>
     
     <item>
@@ -142,8 +155,8 @@ E se quisermos adicionar mais bolas? Pergunte aos ninjas com poderiam adicionar 
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.coderdojo-lx.pt/contact/</guid>
-      <description>Envia as tuas mensagens dúvidas, questões, sugestões, o que for, para lisbon.prt@coderdojo.com.
-Também podes conversar connosco no Slack. Inscreve-te aqui.Podes também encontrar-nos nos locais habituais: Facebook, Twitter, Instagram, YouTube, LinkedIn, GitHub, GlitchCoderdojo LXTweets by CoderDojoLX </description>
+      <description>Envia as tuas mensagens dúvidas, questões, sugestões, o que for, para lisbon.prt@coderdojo.com .
+Também podes conversar connosco no Slack. Inscreve-te aqui. Podes também encontrar-nos nos locais habituais: Facebook , Twitter , Instagram , YouTube , LinkedIn , GitHub , Glitch   Coderdojo LX Tweets by CoderDojoLX </description>
     </item>
     
     <item>
@@ -164,7 +177,7 @@ Compromisso CoderDojo  Aprendizagem Aberta, Livre e Gratuita!
       
       <guid>https://www.coderdojo-lx.pt/2020/05/remote/</guid>
       <description>Queres participar nas nossas sessões remotas? Estás no sítio certo! :)
- Inscreve-te no nosso Slack, se ainda não o fizeste. Segue a ligação https://bit.ly/cdlx-slack e cria uma conta. Depois, instala a app do Slack no telemóvel (iOS ou Android) e inicia sessão na nova conta. Vai até à nossa plataforma de videoconferênciae cria uma conta. Usa um nome que permita identificar-te facilmente.  </description>
+ Inscreve-te no nosso Slack, se ainda não o fizeste. Segue a ligação https://bit.ly/cdlx-slack e cria uma conta. Depois, instala a app do Slack no telemóvel (iOS ou Android) e inicia sessão na nova conta. Vai até à nossa plataforma de videoconferência e cria uma conta. Usa um nome que permita identificar-te facilmente.  </description>
     </item>
     
     <item>
@@ -175,8 +188,18 @@ Compromisso CoderDojo  Aprendizagem Aberta, Livre e Gratuita!
       <guid>https://www.coderdojo-lx.pt/about/</guid>
       <description>O CoderDojo LX é uma organização informal cujo objectivo é dar aos jovens dos 7 aos 17 anos a oportunidade de aprenderem a programar e sobre tecnologias relacionadas com a programação de forma divertida, aberta e gratuita.
 Temos uma só regra… Sê Fixe!
-Os nosso princípios Sabe mais sobre o CoderDojo global.
+Os nosso princípios Sabe mais sobre o CoderDojo global .
 História Tudo começou em Maio de 2013. De então para cá muitos miúdos e graúdos se juntaram a nós para aprender a programar num ambiente animado e descontraído.</description>
+    </item>
+    
+    <item>
+      <title>Sessão #263 – HTML/CSS: Programação web #3</title>
+      <link>https://www.coderdojo-lx.pt/session-263/</link>
+      <pubDate>Wed, 06 May 2020 16:30:00 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/session-263/</guid>
+      <description>Inscrição: Eventbrite Sessão anterior: HTML/CSS: Programação web #2 Sessão seguinte: HTML/CSS: Programação web #4   Lançamento de projectos pessoais Sessão dedicada à Programação web. Faz parte do percurso de aprendizagem Programação web com HTML/CSS .
+Objectivos  Lançar o desafio de cada ninja criar o seu próprio sítio web. Mostrar alguns recursos que os podem ajudar. Discutir ideias de possíveis sítios web. Apoiar os ninjas nos primeiros passos dos seus projectos.</description>
     </item>
     
     <item>
@@ -186,7 +209,7 @@ História Tudo começou em Maio de 2013. De então para cá muitos miúdos e gra
       
       <guid>https://www.coderdojo-lx.pt/2017/06/first-p5/</guid>
       <description>Vais a uma sessão sobre p5.js? Vê o que precisas e como te preparar.
-O que precisas  Um computador ligado à rede para trabalhares Um microfone (o microfone do computador dá perfeitamente) Uma webcam (opcional) O navegador Chrome ou Firefox (actualizado) Uma conta no Glitch (ver tutorial em baixo)  O Glitch é uma plataforma de programação colaborativa parecida com a do Scratch, mas para programação web, com suporte para JavaScript, HTML, CSS, etc.</description>
+O que precisas  Um computador ligado à rede para trabalhares Um microfone (o microfone do computador dá perfeitamente) Uma webcam (opcional) O navegador Chrome ou Firefox (actualizado) Uma conta no Glitch (ver tutorial em baixo)      O Glitch é uma plataforma de programação colaborativa parecida com a do Scratch, mas para programação web, com suporte para JavaScript, HTML, CSS, etc.</description>
     </item>
     
     <item>
@@ -196,7 +219,7 @@ O que precisas  Um computador ligado à rede para trabalhares Um microfone (o mi
       
       <guid>https://www.coderdojo-lx.pt/start/</guid>
       <description>Boa! Ainda bem que queres começar já. Esperamos ver esse entusiasmo nas nossas sessões :)
-Segue os nossos percursos de aprendizagem.Tenho menos de 8 anos Tenho entre 8 e 13 anos  Vamos começar a programar JavaScript usando o p5.js! Vamos começar a programar para a Web usando HTML/CSS!  Tenho mais de 13 anos </description>
+Segue os nossos percursos de aprendizagem. Tenho menos de 8 anos Tenho entre 8 e 13 anos  Vamos começar a programar JavaScript usando o p5.js!  Vamos começar a programar para a Web usando HTML/CSS!   Tenho mais de 13 anos </description>
     </item>
     
     <item>
@@ -206,8 +229,8 @@ Segue os nossos percursos de aprendizagem.Tenho menos de 8 anos Tenho entre 8 e
       
       <guid>https://www.coderdojo-lx.pt/signup/</guid>
       <description>Parece que queres ser um mestre da programação :) Fixe! Vamos a isso&amp;hellip;
-Já sou ninja Se tiveres pelo menos 13 anos, vai à página do CoderDojo LX na plataforma Zen da Fundação CoderDojoe inscreve-te no próximo evento. Se tiveres menos de 13 anos, pede a um encarregado de educação para te inscrever no evento.
-A plataforma Zen foi desenvolvida de modo a permitir inscrições mais fáceis e um melhor acompanhamento pela nossa parte.</description>
+Já sou ninja Se tiveres pelo menos 13 anos, vai à página do CoderDojo LX na plataforma Zen da Fundação CoderDojo e inscreve-te no próximo evento. Se tiveres menos de 13 anos, pede a um encarregado de educação para te inscrever no evento.
+   A plataforma Zen foi desenvolvida de modo a permitir inscrições mais fáceis e um melhor acompanhamento pela nossa parte.</description>
     </item>
     
     <item>
@@ -217,7 +240,7 @@ Já sou ninja Se tiveres pelo menos 13 anos, vai à página do CoderDojo LX na p
       
       <guid>https://www.coderdojo-lx.pt/first/</guid>
       <description>Para melhor te preparares para a tua primeira sessão no CoderDojo LX, segue as instruções em baixo, acedendo à página com o título correspondente ao tema da sessão.
-Sessões de Scratch Nas sessões de Scratch aprenderás os princípios da programação usando a linguagem de programação visual Scratch. Segue as instruções aqui.Sessões de p5.js Nas sessões de p5.jsaprenderás como criar jogos, animações e mais usando a linguagem de programação JavaScripte a biblioteca p5.</description>
+Sessões de Scratch Nas sessões de Scratch aprenderás os princípios da programação usando a linguagem de programação visual Scratch . Segue as instruções aqui. Sessões de p5.js Nas sessões de p5.js aprenderás como criar jogos, animações e mais usando a linguagem de programação JavaScript e a biblioteca p5.</description>
     </item>
     
   </channel>

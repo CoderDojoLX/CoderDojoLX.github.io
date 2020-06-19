@@ -6,10 +6,37 @@
     <description>Recent content in Tags on CoderDojo LX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
-    <lastBuildDate>Tue, 02 Jun 2020 18:00:08 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 16:30:00 +0100</lastBuildDate>
     
 	<atom:link href="https://www.coderdojo-lx.pt/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>sessão</title>
+      <link>https://www.coderdojo-lx.pt/tags/sess%C3%A3o/</link>
+      <pubDate>Fri, 19 Jun 2020 16:30:00 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/tags/sess%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>p5</title>
+      <link>https://www.coderdojo-lx.pt/tags/p5/</link>
+      <pubDate>Wed, 10 Jun 2020 09:46:26 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/tags/p5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://www.coderdojo-lx.pt/tags/tutorial/</link>
+      <pubDate>Wed, 10 Jun 2020 09:46:26 +0100</pubDate>
+      
+      <guid>https://www.coderdojo-lx.pt/tags/tutorial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>css</title>
@@ -53,15 +80,6 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.coderdojo-lx.pt/tags/guia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>p5</title>
-      <link>https://www.coderdojo-lx.pt/tags/p5/</link>
-      <pubDate>Sat, 16 May 2020 13:22:08 +0100</pubDate>
-      
-      <guid>https://www.coderdojo-lx.pt/tags/p5/</guid>
       <description></description>
     </item>
     

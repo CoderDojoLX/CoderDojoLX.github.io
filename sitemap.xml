@@ -3,43 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.coderdojo-lx.pt/tags/css/</loc>
-    <lastmod>2020-06-09T21:55:20+01:00</lastmod>
+    <loc>https://www.coderdojo-lx.pt/sessions/</loc>
+    <lastmod>2020-06-19T18:28:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.coderdojo-lx.pt/tags/html/</loc>
-    <lastmod>2020-06-09T21:55:20+01:00</lastmod>
+    <loc>https://www.coderdojo-lx.pt/tags/sess%C3%A3o/</loc>
+    <lastmod>2020-06-19T18:28:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.coderdojo-lx.pt/2020/06/html-css1/</loc>
-    <lastmod>2020-06-09T21:55:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.coderdojo-lx.pt/tags/programa%C3%A7%C3%A3o-web/</loc>
-    <lastmod>2020-06-09T21:55:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.coderdojo-lx.pt/2020/06/html-css2/</loc>
-    <lastmod>2020-06-09T21:55:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.coderdojo-lx.pt/2020/06/html-css3/</loc>
-    <lastmod>2020-06-09T21:55:20+01:00</lastmod>
+    <loc>https://www.coderdojo-lx.pt/session-265/</loc>
+    <lastmod>2020-06-19T18:28:27+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.coderdojo-lx.pt/tags/</loc>
-    <lastmod>2020-06-09T21:55:20+01:00</lastmod>
+    <lastmod>2020-06-19T18:30:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.coderdojo-lx.pt/2020/06/p5-local-install/</loc>
+    <lastmod>2020-06-10T10:48:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.coderdojo-lx.pt/tags/p5/</loc>
+    <lastmod>2020-06-10T10:48:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.coderdojo-lx.pt/tags/tutorial/</loc>
+    <lastmod>2020-06-10T10:48:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.coderdojo-lx.pt/tags/css/</loc>
+    <lastmod>2020-06-19T18:30:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.coderdojo-lx.pt/tags/html/</loc>
+    <lastmod>2020-06-19T18:30:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.coderdojo-lx.pt/2020/06/html-css1/</loc>
+    <lastmod>2020-06-19T18:29:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.coderdojo-lx.pt/2020/06/html-css3/</loc>
+    <lastmod>2020-06-19T18:30:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.coderdojo-lx.pt/tags/programa%C3%A7%C3%A3o-web/</loc>
+    <lastmod>2020-06-19T18:30:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.coderdojo-lx.pt/2020/06/html-css2/</loc>
+    <lastmod>2020-06-19T18:29:53+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.coderdojo-lx.pt/2020/05/html-css/</loc>
-    <lastmod>2020-06-09T21:55:20+01:00</lastmod>
+    <lastmod>2020-06-10T11:24:41+01:00</lastmod>
   </url>
   
   <url>
@@ -48,28 +78,18 @@
   </url>
   
   <url>
-    <loc>https://www.coderdojo-lx.pt/sessions/</loc>
-    <lastmod>2020-06-09T21:55:20+01:00</lastmod>
+    <loc>https://www.coderdojo-lx.pt/session-261/</loc>
+    <lastmod>2020-06-19T18:28:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.coderdojo-lx.pt/sessions/session-261/</loc>
-    <lastmod>2020-06-09T21:55:20+01:00</lastmod>
+    <loc>https://www.coderdojo-lx.pt/session-260/</loc>
+    <lastmod>2020-06-19T18:28:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.coderdojo-lx.pt/sessions/session-263/</loc>
-    <lastmod>2020-06-09T21:28:37+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.coderdojo-lx.pt/sessions/session-260/</loc>
-    <lastmod>2020-06-09T21:24:38+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.coderdojo-lx.pt/sessions/session-259/</loc>
-    <lastmod>2020-06-09T21:28:37+01:00</lastmod>
+    <loc>https://www.coderdojo-lx.pt/session-259/</loc>
+    <lastmod>2020-06-19T18:28:27+00:00</lastmod>
   </url>
   
   <url>
@@ -85,11 +105,6 @@
   <url>
     <loc>https://www.coderdojo-lx.pt/tags/guia/</loc>
     <lastmod>2020-06-05T12:17:22+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.coderdojo-lx.pt/tags/p5/</loc>
-    <lastmod>2020-05-18T15:27:47+01:00</lastmod>
   </url>
   
   <url>
@@ -128,6 +143,11 @@
   </url>
   
   <url>
+    <loc>https://www.coderdojo-lx.pt/session-263/</loc>
+    <lastmod>2020-06-19T18:28:27+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.coderdojo-lx.pt/2017/06/first-p5/</loc>
     <lastmod>2020-06-05T12:17:22+01:00</lastmod>
   </url>
@@ -154,7 +174,7 @@
   
   <url>
     <loc>https://www.coderdojo-lx.pt/post/</loc>
-    <lastmod>2020-05-18T15:16:27+01:00</lastmod>
+    <lastmod>2020-06-10T11:48:43+01:00</lastmod>
   </url>
   
 </urlset>

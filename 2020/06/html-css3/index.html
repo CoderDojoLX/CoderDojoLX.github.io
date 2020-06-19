@@ -34,7 +34,7 @@
 
   
   
-  <title>Página de início e muito mais CSS | CoderDojo LX</title>
+  <title>Navegação, cores, medidas e mais selectores | CoderDojo LX</title>
 </head>
 
   <body>
@@ -255,7 +255,7 @@
       <svg class="bookmark-icon" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
         <use xlink:href="#bookmark"></use>
       </svg>
-      Página de início e muito mais CSS
+      Navegação, cores, medidas e mais selectores
     </h1>
 
     <div class="date">
@@ -265,7 +265,7 @@
       
         
           <br>
-          <strong aria-hidden="true"> </strong>2020-06-09
+          <strong aria-hidden="true"> </strong>2020-06-19
         
       
     </div>
@@ -325,8 +325,8 @@
           
           
           
-          <a href="#mais-uma-p%c3%a1gina">
-            Mais uma página
+          <a href="#cores-em-css">
+            Cores em CSS
           </a>
         </li>
       
@@ -376,7 +376,19 @@
 
     
 
-    <p>!!!!!!!!!!Criar título!</p>
+    <aside aria-label="warning" class="note warning">
+  <div>
+    <svg class="sign" aria-hidden="true" viewBox="0 0 48.430474 41.646302" focusable="false">
+      <use xlink:href="#warning"></use>
+    </svg>
+    
+Atenção! Esta página ainda está em desenvolvimento!
+
+  </div>
+</aside>
+
+<p>Páginas 30 a 41 do livro</p>
+<p>Exemplos 34, 35, 41=35+NAV EM TODAS e 43.</p>
 <p>CSS: Cores e medidas
 Navegação
 CSS: selectores com descendentes e ascendentes, classes</p>
@@ -384,65 +396,39 @@ CSS: selectores com descendentes e ascendentes, classes</p>
 <p>cores, selectores de cor, cores em hexadecimal, experiências em h1.
 hexadecimal</p>
 <p>medidas: px, em e %</p>
-<p>Absolutas:
-cm  centimeters
-mm  millimeters
-in  inches (1in = 96px = 2.54cm)
-px *  pixels (1px = 1/96th of 1in)
-pt  points (1pt = 1/72 of 1in)
-pc  picas (1pc = 12 pt)</p>
-<p>Relativas:
-em  Relative to the font-size of the element (2em means 2 times the size of the current font) 
-ex  Relative to the x-height of the current font (rarely used)<br>
-ch  Relative to the width of the &ldquo;0&rdquo; (zero) 
-rem Relative to font-size of the root element 
-vw  Relative to 1% of the width of the viewport*<br>
-vh  Relative to 1% of the height of the viewport* 
-vmin  Relative to 1% of viewport&rsquo;s* smaller dimension 
-vmax  Relative to 1% of viewport&rsquo;s* larger dimension<br>
-% Relative to the parent element</p>
 <p>Navegação</p>
 <ul>
 <li>Código HTML</li>
 <li>CSS: selectores mais complexos</li>
 </ul>
 <p>Nesta lição do percurso de aprendizagem <a href="/html-css">Programação web com HTML/CSS</a>
- vamos aprender a criar uma página de início e vamos ver o CSS mais a fundo.</p>
+ vamos aprender a criar uma barra de navegação para o nosso sítio web e vamos aprender um pouco mais sobre folhas de estilo em CSS, incluindo como usar cores nas declarações, que unidades de medida se podem usar e como usar selectores mais sofisticados.</p>
 <h2 id="recursos">Recursos</h2>
 <ul>
-<li><strong><a href="https://www.coderdojo-lx.pt/sessions/session-261/">Sessão #261 (HTML/CSS #2)</a>
+<li><strong><a href="https://www.coderdojo-lx.pt/session-265/">Sessão #265 (HTML/CSS #4)</a>
 </strong> – Sessão do CoderDojo LX correspondente a esta secção.</li>
-<li><strong><a href="https://bit.ly/cdlx-html2" target="_blank" rel="noreferrer noopener">Apresentação da sessão #261 (HTML/CSS #2)</a>
+<li><strong><a href="https://bit.ly/cdlx-html4" target="_blank" rel="noreferrer noopener">Apresentação da sessão #265 (HTML/CSS #4)</a>
 </strong> – A apresentação usada nessa sessão.</li>
-<li><strong><a href="https://glitch.com/~nanonautas-sessao2" target="_blank" rel="noreferrer noopener">nanonautas-sessao2</a>
-</strong> – Projecto com que podes começar esta lição. Também podes começar onde terminaste a ligação anterior.</li>
-<li>Os exemplos do livro correspondentes a esta sessão:
+<li><strong><a href="https://glitch.com/~nanonautas-sessao4" target="_blank" rel="noreferrer noopener">nanonautas-sessao4</a>
+</strong> – Projecto com que podes começar esta lição. Também podes começar onde terminaste a lição anterior.</li>
+<li>Os exemplos do livro correspondentes a esta lição:
 <ul>
-<li><strong><a href="https://glitch.com/~nanonautas-p18" target="_blank" rel="noreferrer noopener">nanonautas-p18</a>
-</strong> – Projecto até à página 18 do livro.</li>
-<li><strong><a href="https://glitch.com/~nanonautas-p22" target="_blank" rel="noreferrer noopener">nanonautas-p22</a>
-</strong> – Projecto até à página 22 do livro.</li>
-<li><strong><a href="https://glitch.com/~nanonautas-p28" target="_blank" rel="noreferrer noopener">nanonautas-p28</a>
-</strong> – Projecto até à página 28 do livro.</li>
+<li><strong><a href="https://glitch.com/~nanonautas-p34" target="_blank" rel="noreferrer noopener">nanonautas-p34</a>
+</strong> – Projecto até à página 34 do livro.</li>
+<li><strong><a href="https://glitch.com/~nanonautas-p35" target="_blank" rel="noreferrer noopener">nanonautas-p35</a>
+</strong> – Projecto até à página 35 do livro.</li>
+<li><strong><a href="https://glitch.com/~nanonautas-p41" target="_blank" rel="noreferrer noopener">nanonautas-p41</a>
+</strong> – Projecto até à página 41 do livro.</li>
+<li><strong><a href="https://glitch.com/~nanonautas-p43" target="_blank" rel="noreferrer noopener">nanonautas-p43</a>
+</strong> – Projecto até à página 43 do livro.</li>
 </ul>
 </li>
 </ul>
-<h2 id="mais-uma-página">Mais uma página</h2>
-<p>Abre o projecto que completaste na lição anterior, <a href="/2020/06/html-css1/">Introdução à Web, ao HTML e ao CSS</a>
-. Se preferires, podes abrir o nosso projecto de arranque para esta lição, <a href="https://glitch.com/~nanonautas-sessao2" target="_blank" rel="noreferrer noopener">nanonautas-sessao2</a>
-, e remisturá-lo.</p>
-<aside aria-label="note" class="note">
-  <div>
-    <svg class="sign" aria-hidden="true" viewBox="0 0 41.667306 41.66729" focusable="false">
-      <use xlink:href="#info"></use>
-    </svg>
-    
-Talvez esteja na altura de dar um nome apropriado ao teu projecto, se não o fizeste ainda. No Glitch, no editor do projecto, clica sobre o nome do teu projecto no canto superior esquerdo. Dá-lhe um nome apropriado.
-
-  </div>
-</aside>
-
-<p>Neste momento o sítio web dos Nanonautas tem já duas páginas web, <code>as-nossas-cancoes.html</code> e <code>sobre-nos.html</code>. Aqui vai a estrutura de pastas e arquivos neste momento:</p>
+<h2 id="cores-em-css">Cores em CSS</h2>
+<p>Abre o projecto que completaste na lição anterior, <a href="/2020/06/html-css2/">Página de início e muito mais CSS</a>
+. Se preferires, podes abrir o nosso projecto de arranque para esta lição, <a href="https://glitch.com/~nanonautas-sessao4" target="_blank" rel="noreferrer noopener">nanonautas-sessao4</a>
+, e remisturá-lo. Não te esqueças de abrir o painel direito de visualização do sítio web, para poderes ir vendo o resultado de todas as alterações que fores fazendo.</p>
+<p>Neste momento o sítio web dos Nanonautas tem já cinco páginas web, incluindo uma página inicial. Aqui vai a estrutura de pastas e arquivos neste momento:</p>
 <div class="file-tree">
   <p><code>/</code> [pasta raiz]</p>
 <ul>
@@ -452,11 +438,85 @@ Talvez esteja na altura de dar um nome apropriado ao teu projecto, se não o fiz
 </ul>
 </li>
 <li>as-nossas-cancoes.html</li>
+<li>dar-um-concerto.html</li>
+<li>index.html</li>
 <li>sobre-nos.html</li>
+<li>vejam-nos-tocar.html</li>
 </ul>
 
 </div>
 
+<p>Lembras-te como usaste a tua tua folha de estilo para dar cor a diferentes partes das tuas páginas web? Vamos agora estudar um pouco as diferentes formas de indicar as cores em CSS.</p>
+<p>Começa por abrir a tua folha de estilo, <code>css/minha-folha-de-estilo.css</code>. Cria uma nova regra, temporária, só para veres o efeito. Coloca-a logo no início da folha de estilo:</p>
+
+
+
+
+<div class="code-annotated numbered"><code>
+<span class='highlight'>h1</span> {
+  <span class='highlight'>background-color</span>: <span class='highlight'>Yellow</span>;
+}
+
+body {
+  […]
+}
+
+html {
+  […]
+}
+</code></div>
+
+<ol>
+<li>Como vês, a nossa regra usa o selector <code>h1</code>, o que significa que se aplica apenas aos elementos <code>H1</code>, que se bem te recordas são os títulos dos nosos «capítulos». Por isso, apenas o fundo do título «Somos os Nanonautas!» apareceu a amarelo.</li>
+<li>Recorda-te que esta é a propriedade que corresponde à cor (<em>color</em>) do fundo (<em>background</em>).</li>
+<li>Finalmente, chegamos aqui à parte que nos interessa mais neste momento: a cor. O valor <code>Yellow</code> corresponde naturalmente à cor amarela. Mas será o CSS inteligente o suficiente para compreender qualquer cor? Vamos ver.</li>
+</ol>
+<p>Vamos fazer mais umas experiências:</p>
+<ul>
+<li>Substitui <code>Yellow</code> por <code>Red</code>. Que tal? Parece que o CSS sabe o que é que <em>red</em> significa, em inglês.</li>
+<li>Experimenta <code>Blue</code>. Funciona, certo?</li>
+<li>Experimenta também <code>LightBlue</code>. Que tal?</li>
+<li>E se for <code>Light Blue</code>? Funciona? Pelos vistos não: o CSS não permite espaços entre as palavras que compõem o nome de uma cor.</li>
+<li>Vamos tentar uma cor mais sofisticada: <code>LightSeaGreen</code>. Uau! Verde-mar claro!</li>
+<li>Também podes experimentar nomes em português, mas como o CSS usa o inglês como base, o mais certo é falhares.</li>
+<li>E que tal, digamos, <code>Mauve</code>?  Então? Pelos vistos, a cor malva é demasiado sofisticada para o CSS…</li>
+</ul>
+<p>Conclusão? O CSS permite-nos indicar muitas cores textualmente, pelo seu nome, mas não todas as que se podem exprimir em inglês. Consulta a página <a href="https://www.cssportal.com/css3-color-names/" target="_blank" rel="noreferrer noopener">CSS3 Color Names</a>
+ e verás que o CSS reconhece 147 nomes de cores.</p>
+<p>Embora as cores do mundo real sejam muito mais ricas do que as cores que podemos representar nos nossos computadores, os nossos computadores são capazes de representar muito mais cores do que as cores representadas pelos 147 nomes de cores que o CSS reconhece. Na realidade, os nossos computadores usualmente distinguem 256 × 256 × 256 = 16 777 216 cores. Isso: dezasseis milhões, setecentas e setenta e sete mil, duzentas e dezasseis cores.</p>
+<style type="text/css">
+  table {
+    border: none;
+    width: 100%;
+  }
+  td {
+    border: 10px solid White;
+    font-size: 12pt;
+    text-align: center;
+  }
+</style>
+<table >
+  <tbody>
+    <tr>
+      <td style="text-align: right; width: 100px;"><strong>Cardo:</strong></td>
+      <td style="background-color: Thistle">Thistle</td>
+      <td style="background-color: #D8BFD8">#D8BFD8</td>
+      <td style="background-color: rgb(216, 191, 216)">rgb(216, 191, 216)</td>
+    </tr>
+    <tr>
+      <td style="text-align: right; width: 100px;"><strong>Malva:</strong></td>
+      <td style="background-color: Mauve">Mauve</td>
+      <td style="background-color: #E0B0FF">#E0B0FF</td>
+      <td style="background-color: rgb(224, 176, 255)">rgb(224, 176, 255)</td>
+    </tr>
+    <tr>
+      <td style="text-align: right; width: 100px;"><strong>Café:</strong></td>
+      <td style="background-color: Coffee">Coffee</td>
+      <td style="background-color: #6F4E37; color: White">#6F4E37</td>
+      <td style="background-color: rgb(111, 78, 55); color: White">rgb(111, 78, 55)</td>
+    </tr>
+  </tbody>
+</table>
 <p>Se bem te lembras, os Nanonautas tinham decidido que o seu sítio web teria quatro páginas <em>além de uma página inicial</em>.</p>
 <ul>
 <li><strong>Início</strong> – Página com ligações para as seguintes páginas:
